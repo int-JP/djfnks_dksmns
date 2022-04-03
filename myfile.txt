@@ -1,0 +1,1 @@
+{'market': 'NMR/USD', 'last_buy_price': 31.18, 'last_buy_amount': 0.0, 'last_buy_time': 1649008980000}
