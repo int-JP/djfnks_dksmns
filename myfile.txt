@@ -1,0 +1,1 @@
+{'market': 'XLM/USDT', 'last_buy_price': 0.23388, 'last_buy_amount': 64.0, 'last_buy_time': 1649012460000}
