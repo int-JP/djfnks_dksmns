@@ -1,1 +1,1 @@
-{'market': 'NEAR/BUSD', 'last_buy_price': 17.429, 'last_buy_amount': 1.0, 'last_buy_time': 1649112000000} {'market': 'NEAR/USD', 'last_buy_price': 17.426, 'last_buy_amount': 1.0, 'last_buy_time': 1649112000000}
+{'market': 'NEAR/BUSD', 'last_buy_price': 17.429, 'last_buy_amount': 1.0, 'last_buy_time': 1649112000000} {'market': 'NEAR/USD', 'last_buy_price': 17.426, 'last_buy_amount': 1.0, 'last_buy_time': 1649112000000} {'market': 'BTC/USDT', 'last_buy_price': 46665.86, 'last_buy_amount': 0.0, 'last_buy_time': 1649112120000}
