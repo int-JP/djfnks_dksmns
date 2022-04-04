@@ -1,1 +1,1 @@
-{'market': 'MKR/USDT', 'last_buy_price': 2403.52, 'last_buy_amount': 0.0, 'last_buy_time': 1649109540000}
+{'market': 'MKR/USDT', 'last_buy_price': 2403.52, 'last_buy_amount': 0.0, 'last_buy_time': 1649109540000} {'market': 'MKR/USDT', 'last_buy_price': 2403.52, 'last_buy_amount': 0.0, 'last_buy_time': 1649109780000}
