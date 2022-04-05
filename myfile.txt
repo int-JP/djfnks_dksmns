@@ -1,0 +1,1 @@
+{'market': 'REQ/USDT', 'last_buy_price': 0.2779, 'last_buy_amount': 54.0, 'last_buy_time': 1649163660000}
