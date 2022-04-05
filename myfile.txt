@@ -1,1 +1,1 @@
-{'market': 'OGN/USDT', 'last_buy_price': 0.5851, 'last_buy_amount': 26.0, 'last_buy_time': 1649158920000}
+{'market': 'OGN/USDT', 'last_buy_price': 0.5851, 'last_buy_amount': 26.0, 'last_buy_time': 1649158920000} {'market': 'STORJ/USDT', 'last_buy_price': 1.3507, 'last_buy_amount': 11.0, 'last_buy_time': 1649159100000}
