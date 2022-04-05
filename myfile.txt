@@ -1,0 +1,1 @@
+{'market': 'FTM/USDT', 'last_buy_price': 1.561, 'last_buy_amount': 10.0, 'last_buy_time': 1649122320000}
