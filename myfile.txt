@@ -1,1 +1,1 @@
-{'market': 'ANT/USDT', 'last_buy_price': 5.966, 'last_buy_amount': 3.0, 'last_buy_time': 1649167860000} {'market': 'VTHO/USDT', 'last_buy_price': 0.005072, 'last_buy_amount': 2957.0, 'last_buy_time': 1649168580000} {'market': 'ANT/USDT', 'last_buy_price': 6.085, 'last_buy_amount': 2.0, 'last_buy_time': 1649168700000}
+{'market': 'VTHO/USDT', 'last_buy_price': 0.005072, 'last_buy_amount': 2957.0, 'last_buy_time': 1649168580000} {'market': 'ANT/USDT', 'last_buy_price': 6.085, 'last_buy_amount': 2.0, 'last_buy_time': 1649168700000}
