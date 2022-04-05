@@ -1,1 +1,0 @@
-{'market': 'KSHIB/USD', 'last_buy_price': 0.0267, 'last_buy_amount': 562.0, 'last_buy_time': 1649166000000}
