@@ -1,0 +1,1 @@
+{'market': 'REQ/USD', 'last_buy_price': 0.2931, 'last_buy_amount': 51.0, 'last_buy_time': 1649226720000}
