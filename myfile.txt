@@ -1,1 +1,1 @@
-{'market': 'REQ/USDT', 'last_buy_price': 0.2944, 'last_buy_amount': 51.0, 'last_buy_time': 1649224800000} {'market': 'REQ/USDT', 'last_buy_price': 0.2944, 'last_buy_amount': 51.0, 'last_buy_time': 1649224800000} {'market': 'REQ/USDT', 'last_buy_price': 0.2944, 'last_buy_amount': 51.0, 'last_buy_time': 1649224800000}
+{'market': 'REQ/USDT', 'last_buy_price': 0.2944, 'last_buy_amount': 51.0, 'last_buy_time': 1649224800000}
