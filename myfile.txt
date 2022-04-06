@@ -1,1 +1,1 @@
-{'market': 'ZEC/USDT', 'last_buy_price': 173.0, 'last_buy_amount': 0.0, 'last_buy_time': 1649241240000} {'market': 'ZEC/USDT', 'last_buy_price': 173.0, 'last_buy_amount': 0.0, 'last_buy_time': 1649241240000} {'market': 'OXT/USDT', 'last_buy_price': 0.2864, 'last_buy_amount': 52.0, 'last_buy_time': 1649242020000}
+{'market': 'ZEC/USDT', 'last_buy_price': 173.0, 'last_buy_amount': 0.0, 'last_buy_time': 1649241240000} {'market': 'OXT/USDT', 'last_buy_price': 0.2864, 'last_buy_amount': 52.0, 'last_buy_time': 1649242020000}
