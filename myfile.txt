@@ -1,1 +1,1 @@
-{'market': 'OXT/USDT', 'last_buy_price': 0.2864, 'last_buy_amount': 52.0, 'last_buy_time': 1649242020000} {'market': 'OXT/USDT', 'last_buy_price': 0.2864, 'last_buy_amount': 52.0, 'last_buy_time': 1649242200000}
+{'market': 'OXT/USDT', 'last_buy_price': 0.2864, 'last_buy_amount': 52.0, 'last_buy_time': 1649242020000} {'market': 'OXT/USDT', 'last_buy_price': 0.2864, 'last_buy_amount': 52.0, 'last_buy_time': 1649242200000} {'market': 'OXT/USDT', 'last_buy_price': 0.2864, 'last_buy_amount': 52.0, 'last_buy_time': 1649242380000}
