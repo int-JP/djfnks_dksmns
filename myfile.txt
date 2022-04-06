@@ -1,1 +1,0 @@
-{'market': 'PAXG/USDT', 'last_buy_price': 1930.4, 'last_buy_amount': 0.0, 'last_buy_time': 1649253840000}
