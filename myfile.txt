@@ -1,0 +1,1 @@
+{'market': 'ZEC/USDT', 'last_buy_price': 172.1, 'last_buy_amount': 0.0, 'last_buy_time': 1649221800000}
