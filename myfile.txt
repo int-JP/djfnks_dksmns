@@ -1,1 +1,1 @@
-{'market': 'ZEC/USDT', 'last_buy_price': 172.1, 'last_buy_amount': 0.0, 'last_buy_time': 1649221980000} {'market': 'ZEC/USDT', 'last_buy_price': 172.3, 'last_buy_amount': 0.0, 'last_buy_time': 1649222220000} {'market': 'ZEC/USDT', 'last_buy_price': 172.4, 'last_buy_amount': 0.0, 'last_buy_time': 1649222400000}
+{'market': 'ZEC/USDT', 'last_buy_price': 172.3, 'last_buy_amount': 0.0, 'last_buy_time': 1649222220000} {'market': 'ZEC/USDT', 'last_buy_price': 172.4, 'last_buy_amount': 0.0, 'last_buy_time': 1649222400000}
