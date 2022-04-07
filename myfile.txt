@@ -1,0 +1,1 @@
+{'market': 'ETC/USDT', 'last_buy_price': 40.6468, 'last_buy_amount': 0.0, 'last_buy_time': 1649325180000}
