@@ -1,1 +1,1 @@
-{'market': 'LTC/USDT', 'last_buy_price': 113.86, 'last_buy_amount': 0.0, 'last_buy_time': 1649327160000} {'market': 'XLM/USDT', 'last_buy_price': 0.21068, 'last_buy_amount': 71.0, 'last_buy_time': 1649327160000}
+{'market': 'LTC/USDT', 'last_buy_price': 113.86, 'last_buy_amount': 0.0, 'last_buy_time': 1649327160000} {'market': 'XLM/USDT', 'last_buy_price': 0.21068, 'last_buy_amount': 71.0, 'last_buy_time': 1649327160000} {'market': 'NEO/USDT', 'last_buy_price': 23.021, 'last_buy_amount': 1.0, 'last_buy_time': 1649327220000}
