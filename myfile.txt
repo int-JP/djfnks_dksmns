@@ -1,1 +1,1 @@
-{'market': 'AUDIO/USDT', 'last_buy_time': 1650236100000} {'market': 'AUDIO/USD', 'last_buy_time': 1650236100000} {'market': 'UST/USD', 'last_buy_time': 1650236160000}
+{'market': 'AUDIO/USD', 'last_buy_time': 1650236100000} {'market': 'UST/USD', 'last_buy_time': 1650236160000}
