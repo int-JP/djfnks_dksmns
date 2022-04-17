@@ -1,1 +1,1 @@
-{'market': 'ETH/USDT', 'last_buy_time': 1650206580000}
+{'market': 'ETH/USDT', 'last_buy_time': 1650206580000} {'market': 'STORJ/USDT', 'last_buy_time': 1650206640000}
