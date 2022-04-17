@@ -1,1 +1,1 @@
-{'market': 'OGN/USDT', 'last_buy_time': 1650227940000}
+{'market': 'OGN/USDT', 'last_buy_time': 1650227940000} {'market': 'VOXEL/USDT', 'last_buy_time': 1650228480000}
