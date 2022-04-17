@@ -1,1 +1,1 @@
-{'market': 'ALGO/USDT', 'last_buy_time': 1650211860000}
+{'market': 'ALGO/USDT', 'last_buy_time': 1650211860000} {'market': 'ANT/USD', 'last_buy_time': 1650211920000}
