@@ -1,1 +1,0 @@
-{'market': 'STORJ/USDT', 'last_buy_time': 1650207180000} {'market': 'CRV/USDT', 'last_buy_time': 1650207240000} {'market': 'FTM/USDT', 'last_buy_time': 1650207240000} {'market': 'FTM/USD', 'last_buy_time': 1650207300000} {'market': 'ALGO/USDT', 'last_buy_time': 1650207300000}
