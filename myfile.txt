@@ -1,1 +1,1 @@
-{'market': 'UST/USD', 'last_buy_time': 1650262200000}
+{'market': 'UST/USD', 'last_buy_time': 1650262200000} {'market': 'UST/USD', 'last_buy_time': 1650262440000} {'market': 'UST/USD', 'last_buy_time': 1650262440000}
