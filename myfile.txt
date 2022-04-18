@@ -1,1 +1,1 @@
-{'market': 'VOXEL/USDT', 'last_buy_time': 1650244320000} {'market': 'VOXEL/USD', 'last_buy_time': 1650244320000}
+{'market': 'VOXEL/USD', 'last_buy_time': 1650244320000}
