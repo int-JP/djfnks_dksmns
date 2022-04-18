@@ -1,1 +1,1 @@
-{'market': 'VOXEL/USDT', 'last_buy_time': 1650261060000} {'market': 'VOXEL/USDT', 'last_buy_time': 1650261060000} {'market': 'VOXEL/USD', 'last_buy_time': 1650261060000} {'market': 'VOXEL/USDT', 'last_buy_time': 1650261240000} {'market': 'VOXEL/USD', 'last_buy_time': 1650261240000}
+{'market': 'VOXEL/USDT', 'last_buy_time': 1650261060000} {'market': 'VOXEL/USDT', 'last_buy_time': 1650261240000} {'market': 'VOXEL/USD', 'last_buy_time': 1650261240000}
