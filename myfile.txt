@@ -1,1 +1,1 @@
-{'market': 'SLP/USDT', 'last_buy_time': 1650351960000}
+{'market': 'SLP/USDT', 'last_buy_time': 1650351960000} {'market': 'KNC/USDT', 'last_buy_time': 1650352140000}
