@@ -1,1 +1,1 @@
-{'market': 'NMR/USDT', 'last_buy_time': 1650345660000} {'market': 'NMR/USD', 'last_buy_time': 1650345660000} {'market': 'NMR/USD', 'last_buy_time': 1650345660000} {'market': 'FLUX/USD', 'last_buy_time': 1650346200000}
+{'market': 'NMR/USDT', 'last_buy_time': 1650345660000} {'market': 'NMR/USD', 'last_buy_time': 1650345660000} {'market': 'NMR/USD', 'last_buy_time': 1650345660000} {'market': 'FLUX/USD', 'last_buy_time': 1650346200000} {'market': 'ONE/USDT', 'last_buy_time': 1650346500000}
