@@ -1,1 +1,1 @@
-{'market': 'XLM/USDT', 'last_buy_time': 1650412320000} {'market': 'ATOM/USDT', 'last_buy_time': 1650412320000} {'market': 'QTUM/USDT', 'last_buy_time': 1650412380000} {'market': 'ONT/USDT', 'last_buy_time': 1650412380000}
+{'market': 'XLM/USDT', 'last_buy_time': 1650412320000} {'market': 'ATOM/USDT', 'last_buy_time': 1650412320000} {'market': 'QTUM/USDT', 'last_buy_time': 1650412380000} {'market': 'ONT/USDT', 'last_buy_time': 1650412380000} {'market': 'BAND/USDT', 'last_buy_time': 1650412380000}
