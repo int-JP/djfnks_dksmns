@@ -1,1 +1,0 @@
-{'market': 'NEAR/USDT', 'last_buy_time': 1650350700000}
