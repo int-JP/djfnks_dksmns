@@ -1,1 +1,1 @@
-{'market': 'ONT/USDT', 'last_buy_time': 1650412620000} {'market': 'BAND/USDT', 'last_buy_time': 1650412620000} {'market': 'ZEN/USDT', 'last_buy_time': 1650412620000}
+{'market': 'ONT/USDT', 'last_buy_time': 1650412620000} {'market': 'BAND/USDT', 'last_buy_time': 1650412620000} {'market': 'ZEN/USDT', 'last_buy_time': 1650412620000} {'market': 'AVAX/USDT', 'last_buy_time': 1650412680000}
