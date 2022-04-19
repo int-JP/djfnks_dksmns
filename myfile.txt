@@ -1,1 +1,1 @@
-{'market': 'AAVE/USDT', 'last_buy_time': 1650403620000} {'market': 'ANT/USDT', 'last_buy_time': 1650403680000}
+{'market': 'AAVE/USDT', 'last_buy_time': 1650403620000} {'market': 'ANT/USDT', 'last_buy_time': 1650403680000} {'market': 'NEO/USDT', 'last_buy_time': 1650403800000} {'market': 'NEO/USDT', 'last_buy_time': 1650403800000}
