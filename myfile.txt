@@ -1,1 +1,1 @@
-{'market': 'MKR/USDT', 'last_buy_time': 1650334560000}
+{'market': 'MKR/USDT', 'last_buy_time': 1650334560000} {'market': 'ENS/USDT', 'last_buy_time': 1650334680000}
