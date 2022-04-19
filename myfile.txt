@@ -1,1 +1,1 @@
-{'market': 'XLM/USDT', 'last_buy_time': 1650410220000} {'market': 'MKR/USDT', 'last_buy_time': 1650410280000}
+{'market': 'XLM/USDT', 'last_buy_time': 1650410220000} {'market': 'MKR/USDT', 'last_buy_time': 1650410280000} {'market': 'BAND/USDT', 'last_buy_time': 1650410280000}
