@@ -1,1 +1,1 @@
-{'market': 'OGN/USDT', 'last_buy_time': 1650348720000} {'market': 'OGN/USDT', 'last_buy_time': 1650348720000} {'market': 'OGN/USDT', 'last_buy_time': 1650348720000} {'market': 'APE/USDT', 'last_buy_time': 1650348780000}
+{'market': 'OGN/USDT', 'last_buy_time': 1650348720000} {'market': 'OGN/USDT', 'last_buy_time': 1650348720000} {'market': 'OGN/USDT', 'last_buy_time': 1650348720000} {'market': 'APE/USDT', 'last_buy_time': 1650348780000} {'market': 'NEAR/USD', 'last_buy_time': 1650348900000} {'market': 'NEAR/USD', 'last_buy_time': 1650348900000}
