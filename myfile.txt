@@ -1,1 +1,1 @@
-{'market': 'BAND/USDT', 'last_buy_time': 1650419760000} {'market': 'OXT/USDT', 'last_buy_time': 1650419760000}
+{'market': 'BAND/USDT', 'last_buy_time': 1650419760000} {'market': 'OXT/USDT', 'last_buy_time': 1650419760000} {'market': 'AAVE/USDT', 'last_buy_time': 1650419760000}
