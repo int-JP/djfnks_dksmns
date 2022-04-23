@@ -1,1 +1,1 @@
-{'market': 'POLY/USDT', 'last_buy_time': 1650742260000} {'market': 'POLY/USDT', 'last_buy_time': 1650742260000}
+{'market': 'POLY/USDT', 'last_buy_time': 1650742260000} {'market': 'POLY/USDT', 'last_buy_time': 1650742260000} {'market': 'CRV/USDT', 'last_buy_time': 1650742440000} {'market': 'CRV/USDT', 'last_buy_time': 1650742440000} {'market': 'CRV/USDT', 'last_buy_time': 1650742440000} {'market': 'CRV/USDT', 'last_buy_time': 1650742440000}
