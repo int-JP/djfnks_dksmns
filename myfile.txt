@@ -1,1 +1,1 @@
-{'market': 'ETC/USDT', 'last_buy_time': 1653868260000}
+{'market': 'ETC/USDT', 'last_buy_time': 1653868260000} {'market': 'CTSI/USDT', 'last_buy_time': 1653868320000}
