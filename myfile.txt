@@ -1,1 +1,1 @@
-{'market': 'FLUX/USDT', 'last_buy_time': 1653790020000} {'market': 'OXT/USDT', 'last_buy_time': 1653790680000}
+{'market': 'OXT/USDT', 'last_buy_time': 1653790680000}
