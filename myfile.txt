@@ -1,1 +1,1 @@
-{'market': 'ETC/USDT', 'last_buy_time': 1653868260000} {'market': 'CTSI/USDT', 'last_buy_time': 1653868320000} {'market': 'DOT/USDT', 'last_buy_time': 1653868320000}
+{'market': 'ETC/USDT', 'last_buy_time': 1653868260000} {'market': 'CTSI/USDT', 'last_buy_time': 1653868320000} {'market': 'DOT/USDT', 'last_buy_time': 1653868320000} {'market': 'ZEC/USDT', 'last_buy_time': 1653868380000}
