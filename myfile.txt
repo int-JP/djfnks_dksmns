@@ -1,1 +1,1 @@
-{'market': 'DOGE/USDT', 'last_buy_time': 1653890640000} {'market': 'ATOM/USDT', 'last_buy_time': 1653890640000}
+{'market': 'DOGE/USDT', 'last_buy_time': 1653890640000} {'market': 'ATOM/USDT', 'last_buy_time': 1653890640000} {'market': 'NEO/USDT', 'last_buy_time': 1653890640000}
