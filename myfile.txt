@@ -1,1 +1,1 @@
-{'market': 'XLM/USDT', 'last_buy_time': 1653877500000}
+{'market': 'XLM/USDT', 'last_buy_time': 1653877500000} {'market': 'UNI/USDT', 'last_buy_time': 1653877560000}
