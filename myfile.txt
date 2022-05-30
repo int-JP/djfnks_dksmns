@@ -1,1 +1,1 @@
-{'market': 'BTC/USDT', 'last_buy_time': 1653874680000}
+{'market': 'BTC/USDT', 'last_buy_time': 1653874680000} {'market': 'XLM/USDT', 'last_buy_time': 1653874740000}
