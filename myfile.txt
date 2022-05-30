@@ -1,1 +1,1 @@
-{'market': 'ETH/USDT', 'last_buy_time': 1653949800000} {'market': 'ETC/USDT', 'last_buy_time': 1653949800000}
+{'market': 'ETH/USDT', 'last_buy_time': 1653949800000} {'market': 'ETC/USDT', 'last_buy_time': 1653949800000} {'market': 'LRC/USD', 'last_buy_time': 1653949920000}
