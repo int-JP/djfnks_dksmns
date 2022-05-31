@@ -1,1 +1,1 @@
-{'market': 'AVAX/USDT', 'last_buy_time': 1653959700000} {'market': 'NMR/USDT', 'last_buy_time': 1653959760000}
+{'market': 'AVAX/USDT', 'last_buy_time': 1653959700000} {'market': 'NMR/USDT', 'last_buy_time': 1653959760000} {'market': 'SLP/USD', 'last_buy_time': 1653959760000}
