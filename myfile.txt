@@ -1,1 +1,1 @@
-{'market': 'UNI/USDT', 'last_buy_time': 1654021560000} {'market': 'GTC/USD', 'last_buy_time': 1654021800000} {'market': 'GTC/USD', 'last_buy_time': 1654021800000}
+{'market': 'UNI/USDT', 'last_buy_time': 1654021560000} {'market': 'GTC/USD', 'last_buy_time': 1654021800000} {'market': 'GTC/USD', 'last_buy_time': 1654021800000} {'market': 'XLM/USDT', 'last_buy_time': 1654022100000}
