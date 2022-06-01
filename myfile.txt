@@ -1,1 +1,1 @@
-{'market': 'EOS/USDT', 'last_buy_time': 1654060680000}
+{'market': 'EOS/USDT', 'last_buy_time': 1654060680000} {'market': 'CELR/USD', 'last_buy_time': 1654060860000}
