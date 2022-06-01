@@ -1,1 +1,1 @@
-{'market': 'TFUEL/USD', 'last_buy_time': 1654053420000} {'market': 'POLY/BTC', 'last_buy_time': 1654053900000}
+{'market': 'TFUEL/USD', 'last_buy_time': 1654053420000} {'market': 'POLY/BTC', 'last_buy_time': 1654053900000} {'market': 'XNO/USD', 'last_buy_time': 1654053900000}
