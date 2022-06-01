@@ -1,1 +1,1 @@
-{'market': 'ETC/USDT', 'last_buy_time': 1654049760000} {'market': 'ZRX/USDT', 'last_buy_time': 1654049760000}
+{'market': 'ETC/USDT', 'last_buy_time': 1654049760000} {'market': 'ZRX/USDT', 'last_buy_time': 1654049760000} {'market': 'COMP/USDT', 'last_buy_time': 1654049760000}
