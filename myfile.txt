@@ -1,1 +1,1 @@
-{'market': 'ONT/USDT', 'last_buy_time': 1654045500000}
+{'market': 'ONT/USDT', 'last_buy_time': 1654045500000} {'market': 'STORJ/USDT', 'last_buy_time': 1654045500000}
