@@ -1,1 +1,1 @@
-{'market': 'ZRX/USDT', 'last_buy_time': 1654192140000}
+{'market': 'ZRX/USDT', 'last_buy_time': 1654192140000} {'market': 'AAVE/USDT', 'last_buy_time': 1654192140000}
