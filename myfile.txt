@@ -1,1 +1,1 @@
-{'market': 'ZRX/USDT', 'last_buy_time': 1657155000000} {'market': 'GRT/USDT', 'last_buy_time': 1657155060000}
+{'market': 'ZRX/USDT', 'last_buy_time': 1657155000000} {'market': 'GRT/USDT', 'last_buy_time': 1657155060000} {'market': 'SHIB/USDT', 'last_buy_time': 1657155060000}
