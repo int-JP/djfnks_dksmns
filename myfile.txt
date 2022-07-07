@@ -1,1 +1,0 @@
-{'market': 'JASMY/USD', 'last_buy_time': 1657177860000} {'market': 'JASMY/USD', 'last_buy_time': 1657177860000} {'market': 'OXT/USDT', 'last_buy_time': 1657178100000} {'market': 'XNO/USD', 'last_buy_time': 1657178280000} {'market': 'XNO/USD', 'last_buy_time': 1657178280000} {'market': 'STORJ/USDT', 'last_buy_time': 1657178700000}
