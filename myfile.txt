@@ -1,1 +1,0 @@
-{'market': 'MATIC/USDT', 'last_buy_time': 1657302360000} {'market': 'MATIC/USDT', 'last_buy_time': 1657302360000} {'market': 'MATIC/USDT', 'last_buy_time': 1657302360000} {'market': 'OXT/USDT', 'last_buy_time': 1657302660000} {'market': 'OXT/USDT', 'last_buy_time': 1657303020000} {'market': 'OXT/USDT', 'last_buy_time': 1657303020000}
