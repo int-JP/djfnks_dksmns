@@ -1,1 +1,1 @@
-{'market': 'NMR/USDT', 'last_buy_time': 1657276020000} {'market': 'POLY/USD', 'last_buy_time': 1657276320000} {'market': 'POLY/USD', 'last_buy_time': 1657276320000}
+{'market': 'NMR/USDT', 'last_buy_time': 1657276020000} {'market': 'POLY/USD', 'last_buy_time': 1657276320000} {'market': 'POLY/USD', 'last_buy_time': 1657276320000} {'market': 'NMR/USDT', 'last_buy_time': 1657276320000} {'market': 'NMR/USDT', 'last_buy_time': 1657276320000}
