@@ -1,1 +1,0 @@
-{'market': 'SOL/USDT', 'last_buy_time': 1657301700000} {'market': 'SOL/USDT', 'last_buy_time': 1657301700000} {'market': 'MATIC/USDT', 'last_buy_time': 1657302060000} {'market': 'MATIC/USDT', 'last_buy_time': 1657302060000}
