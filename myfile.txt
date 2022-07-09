@@ -1,1 +1,1 @@
-{'market': 'LTC/USDT', 'last_buy_time': 1657338480000} {'market': 'VTHO/USDT', 'last_buy_time': 1657338540000} {'market': 'VTHO/USDT', 'last_buy_time': 1657338540000}
+{'market': 'LTC/USDT', 'last_buy_time': 1657338480000} {'market': 'VTHO/USDT', 'last_buy_time': 1657338540000} {'market': 'VTHO/USDT', 'last_buy_time': 1657338540000} {'market': 'ONE/USDT', 'last_buy_time': 1657338540000}
