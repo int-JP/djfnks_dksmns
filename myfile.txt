@@ -1,1 +1,1 @@
-{'market': 'ATOM/USDT', 'last_buy_time': 1657496340000} {'market': 'ATOM/USDT', 'last_buy_time': 1657496340000} {'market': 'ATOM/USDT', 'last_buy_time': 1657496340000} {'market': 'ATOM/USDT', 'last_buy_time': 1657496340000} {'market': 'CHZ/USD', 'last_buy_time': 1657496460000} {'market': 'NEO/USDT', 'last_buy_time': 1657497000000}
+{'market': 'ATOM/USDT', 'last_buy_time': 1657496340000} {'market': 'ATOM/USDT', 'last_buy_time': 1657496340000} {'market': 'CHZ/USD', 'last_buy_time': 1657496460000} {'market': 'NEO/USDT', 'last_buy_time': 1657497000000}
