@@ -1,1 +1,1 @@
-{'market': 'LTC/USDT', 'last_buy_time': 1657435260000}
+{'market': 'LTC/USDT', 'last_buy_time': 1657435260000} {'market': 'REN/USDT', 'last_buy_time': 1657435560000}
