@@ -1,1 +1,1 @@
-{'market': 'SUSHI/USDT', 'last_buy_time': 1657489380000} {'market': 'UNI/USDT', 'last_buy_time': 1657489620000} {'market': 'UNI/USDT', 'last_buy_time': 1657489620000} {'market': 'ATOM/USDT', 'last_buy_time': 1657489920000}
+{'market': 'UNI/USDT', 'last_buy_time': 1657489620000} {'market': 'UNI/USDT', 'last_buy_time': 1657489620000} {'market': 'ATOM/USDT', 'last_buy_time': 1657489920000} {'market': 'ATOM/USDT', 'last_buy_time': 1657490280000} {'market': 'ATOM/USDT', 'last_buy_time': 1657490280000}
