@@ -1,1 +1,1 @@
-{'market': 'POLY/USDT', 'last_buy_time': 1657445400000}
+{'market': 'POLY/USDT', 'last_buy_time': 1657445400000} {'market': 'POLY/USD', 'last_buy_time': 1657445460000}
