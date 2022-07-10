@@ -1,1 +1,1 @@
-{'market': 'CHZ/USD', 'last_buy_time': 1657468200000} {'market': 'CHZ/USD', 'last_buy_time': 1657468560000} {'market': 'CHZ/USD', 'last_buy_time': 1657468560000}
+{'market': 'CHZ/USD', 'last_buy_time': 1657468200000} {'market': 'CHZ/USD', 'last_buy_time': 1657468560000} {'market': 'CHZ/USD', 'last_buy_time': 1657468560000} {'market': 'CHZ/USD', 'last_buy_time': 1657468920000} {'market': 'CHZ/USD', 'last_buy_time': 1657468920000} {'market': 'CHZ/USD', 'last_buy_time': 1657468920000}
