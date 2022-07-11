@@ -1,1 +1,1 @@
-{'market': 'WAXP/USDT', 'last_buy_time': 1657506540000} {'market': 'WAXP/USDT', 'last_buy_time': 1657506900000} {'market': 'WAXP/USDT', 'last_buy_time': 1657506900000}
+{'market': 'WAXP/USDT', 'last_buy_time': 1657506540000} {'market': 'WAXP/USDT', 'last_buy_time': 1657506900000} {'market': 'WAXP/USDT', 'last_buy_time': 1657506900000} {'market': 'WAXP/USD', 'last_buy_time': 1657506900000}
