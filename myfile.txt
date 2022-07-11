@@ -1,1 +1,1 @@
-{'market': 'CHZ/USDT', 'last_buy_time': 1657499460000} {'market': 'COMP/USDT', 'last_buy_time': 1657500000000} {'market': 'ATOM/USDT', 'last_buy_time': 1657500300000}
+{'market': 'COMP/USDT', 'last_buy_time': 1657500000000} {'market': 'ATOM/USDT', 'last_buy_time': 1657500300000}
