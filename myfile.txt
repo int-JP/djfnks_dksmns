@@ -1,1 +1,1 @@
-{'market': 'BICO/USD', 'last_buy_time': 1658526120000} {'market': 'BICO/USD', 'last_buy_time': 1658526120000}
+{'market': 'BICO/USD', 'last_buy_time': 1658526120000}
