@@ -1,1 +1,1 @@
-{'market': 'SNX/USDT', 'last_buy_time': 1658614860000} {'market': 'UNI/USDT', 'last_buy_time': 1658615040000}
+{'market': 'SNX/USDT', 'last_buy_time': 1658614860000} {'market': 'UNI/USDT', 'last_buy_time': 1658615040000} {'market': 'SNX/USDT', 'last_buy_time': 1658615160000} {'market': 'SNX/USDT', 'last_buy_time': 1658615160000}
