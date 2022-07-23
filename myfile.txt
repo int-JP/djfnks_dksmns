@@ -1,1 +1,1 @@
-{'market': 'ENS/USDT', 'last_buy_time': 1658606400000} {'market': 'KSM/USD', 'last_buy_time': 1658606520000} {'market': 'QTUM/USDT', 'last_buy_time': 1658606580000}
+{'market': 'ENS/USDT', 'last_buy_time': 1658606400000} {'market': 'KSM/USD', 'last_buy_time': 1658606520000} {'market': 'QTUM/USDT', 'last_buy_time': 1658606580000} {'market': 'APE/USDT', 'last_buy_time': 1658606700000} {'market': 'APE/USDT', 'last_buy_time': 1658606700000}
