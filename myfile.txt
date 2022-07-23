@@ -1,1 +1,1 @@
-{'market': 'THETA/USDT', 'last_buy_time': 1658568600000}
+{'market': 'THETA/USDT', 'last_buy_time': 1658568600000} {'market': 'AXS/USDT', 'last_buy_time': 1658569020000}
