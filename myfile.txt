@@ -1,1 +1,1 @@
-{'market': 'QTUM/USDT', 'last_buy_time': 1658616360000} {'market': 'CHZ/USDT', 'last_buy_time': 1658616480000} {'market': 'SNX/USDT', 'last_buy_time': 1658616480000}
+{'market': 'QTUM/USDT', 'last_buy_time': 1658616360000} {'market': 'CHZ/USDT', 'last_buy_time': 1658616480000} {'market': 'SNX/USDT', 'last_buy_time': 1658616480000} {'market': 'QTUM/USDT', 'last_buy_time': 1658616660000} {'market': 'QTUM/USDT', 'last_buy_time': 1658616660000}
