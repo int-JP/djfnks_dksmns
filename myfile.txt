@@ -1,1 +1,1 @@
-{'market': 'OP/USDT', 'last_buy_time': 1658543580000} {'market': 'CRV/USDT', 'last_buy_time': 1658543940000}
+{'market': 'OP/USDT', 'last_buy_time': 1658543580000} {'market': 'CRV/USDT', 'last_buy_time': 1658543940000} {'market': 'CRV/USDT', 'last_buy_time': 1658544300000} {'market': 'CRV/USDT', 'last_buy_time': 1658544300000}
