@@ -1,1 +1,1 @@
-{'market': 'AXS/USDT', 'last_buy_time': 1658547600000} {'market': 'AXS/USDT', 'last_buy_time': 1658547900000} {'market': 'AXS/USDT', 'last_buy_time': 1658547900000}
+{'market': 'AXS/USDT', 'last_buy_time': 1658547600000} {'market': 'AXS/USDT', 'last_buy_time': 1658547900000} {'market': 'AXS/USDT', 'last_buy_time': 1658547900000} {'market': 'AXS/USDT', 'last_buy_time': 1658548200000} {'market': 'AXS/USDT', 'last_buy_time': 1658548200000} {'market': 'AXS/USDT', 'last_buy_time': 1658548200000}
