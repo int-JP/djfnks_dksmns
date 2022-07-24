@@ -1,1 +1,1 @@
-{'market': 'VTHO/USDT', 'last_buy_time': 1658646120000}
+{'market': 'VTHO/USDT', 'last_buy_time': 1658646120000} {'market': 'SNX/USDT', 'last_buy_time': 1658646180000}
