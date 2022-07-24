@@ -1,1 +1,1 @@
-{'market': 'SANTOS/USDT', 'last_buy_time': 1658664600000}
+{'market': 'SANTOS/USDT', 'last_buy_time': 1658664600000} {'market': 'VTHO/USDT', 'last_buy_time': 1658664660000}
