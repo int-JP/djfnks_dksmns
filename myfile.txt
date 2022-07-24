@@ -1,1 +1,0 @@
-{'market': 'VTHO/USDT', 'last_buy_time': 1658645580000} {'market': 'BNT/USD', 'last_buy_time': 1658645760000} {'market': 'VTHO/USDT', 'last_buy_time': 1658645880000} {'market': 'VTHO/USDT', 'last_buy_time': 1658645880000}
