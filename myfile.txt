@@ -1,1 +1,1 @@
-{'market': 'ONT/USDT', 'last_buy_time': 1658701320000} {'market': 'ZEC/USDT', 'last_buy_time': 1658701380000} {'market': 'NMR/USD', 'last_buy_time': 1658701380000}
+{'market': 'ONT/USDT', 'last_buy_time': 1658701320000} {'market': 'ZEC/USDT', 'last_buy_time': 1658701380000} {'market': 'NMR/USD', 'last_buy_time': 1658701380000} {'market': 'SNX/USDT', 'last_buy_time': 1658701440000}
