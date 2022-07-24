@@ -1,1 +1,1 @@
-{'market': 'LTC/USDT', 'last_buy_time': 1658636340000} {'market': 'EOS/USDT', 'last_buy_time': 1658636400000}
+{'market': 'LTC/USDT', 'last_buy_time': 1658636340000} {'market': 'EOS/USDT', 'last_buy_time': 1658636400000} {'market': 'SNX/USDT', 'last_buy_time': 1658636460000}
