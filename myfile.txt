@@ -1,1 +1,1 @@
-{'market': 'SANTOS/USDT', 'last_buy_time': 1658664600000} {'market': 'VTHO/USDT', 'last_buy_time': 1658664660000}
+{'market': 'SANTOS/USDT', 'last_buy_time': 1658664600000} {'market': 'VTHO/USDT', 'last_buy_time': 1658664660000} {'market': 'SHIB/USDT', 'last_buy_time': 1658664720000} {'market': 'SHIB/USDT', 'last_buy_time': 1658664720000} {'market': 'SHIB/USDT', 'last_buy_time': 1658664720000}
