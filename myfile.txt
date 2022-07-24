@@ -1,1 +1,1 @@
-{'market': 'XLM/USDT', 'last_buy_time': 1658689380000} {'market': 'LINK/USDT', 'last_buy_time': 1658689800000} {'market': 'LINK/USDT', 'last_buy_time': 1658689800000} {'market': 'XNO/USD', 'last_buy_time': 1658689860000}
+{'market': 'XLM/USDT', 'last_buy_time': 1658689380000} {'market': 'LINK/USDT', 'last_buy_time': 1658689800000} {'market': 'LINK/USDT', 'last_buy_time': 1658689800000} {'market': 'XNO/USD', 'last_buy_time': 1658689860000} {'market': 'SOL/USDT', 'last_buy_time': 1658690100000}
