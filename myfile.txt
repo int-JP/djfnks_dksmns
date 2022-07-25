@@ -1,1 +1,1 @@
-{'market': 'UNI/USDT', 'last_buy_time': 1658780280000} {'market': 'UNI/USDT', 'last_buy_time': 1658780280000}
+{'market': 'UNI/USDT', 'last_buy_time': 1658780280000} {'market': 'UNI/USDT', 'last_buy_time': 1658780280000} {'market': 'VOXEL/USDT', 'last_buy_time': 1658780400000} {'market': 'VOXEL/USDT', 'last_buy_time': 1658780400000}
