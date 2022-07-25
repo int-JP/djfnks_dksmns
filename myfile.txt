@@ -1,1 +1,1 @@
-{'market': 'ENS/USDT', 'last_buy_time': 1658739720000} {'market': 'ENS/USDT', 'last_buy_time': 1658739720000} {'market': 'ENS/USDT', 'last_buy_time': 1658740080000} {'market': 'ENS/USDT', 'last_buy_time': 1658740080000} {'market': 'ENS/USDT', 'last_buy_time': 1658740500000}
+{'market': 'ENS/USDT', 'last_buy_time': 1658739720000} {'market': 'ENS/USDT', 'last_buy_time': 1658740080000} {'market': 'ENS/USDT', 'last_buy_time': 1658740080000} {'market': 'ENS/USDT', 'last_buy_time': 1658740500000}
