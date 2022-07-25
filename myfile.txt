@@ -1,1 +1,1 @@
-{'market': 'VITE/USDT', 'last_buy_time': 1658747220000} {'market': 'VITE/USD', 'last_buy_time': 1658747220000} {'market': 'ENS/USDT', 'last_buy_time': 1658747880000}
+{'market': 'VITE/USD', 'last_buy_time': 1658747220000} {'market': 'ENS/USDT', 'last_buy_time': 1658747880000}
