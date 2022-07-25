@@ -1,1 +1,1 @@
-{'market': 'SUSHI/USDT', 'last_buy_time': 1658786580000} {'market': 'NMR/USDT', 'last_buy_time': 1658787300000} {'market': 'NMR/USDT', 'last_buy_time': 1658787300000} {'market': 'NMR/USDT', 'last_buy_time': 1658787300000} {'market': 'NMR/USDT', 'last_buy_time': 1658787300000}
+{'market': 'NMR/USDT', 'last_buy_time': 1658787300000} {'market': 'NMR/USDT', 'last_buy_time': 1658787300000} {'market': 'NMR/USDT', 'last_buy_time': 1658787300000} {'market': 'NMR/USDT', 'last_buy_time': 1658787300000}
