@@ -1,1 +1,1 @@
-{'market': 'QTUM/USDT', 'last_buy_time': 1658858280000} {'market': 'TRX/BUSD', 'last_buy_time': 1658858460000} {'market': 'TRX/BUSD', 'last_buy_time': 1658858460000}
+{'market': 'QTUM/USDT', 'last_buy_time': 1658858280000} {'market': 'TRX/BUSD', 'last_buy_time': 1658858460000} {'market': 'TRX/BUSD', 'last_buy_time': 1658858460000} {'market': 'QTUM/USDT', 'last_buy_time': 1658858640000} {'market': 'QTUM/USDT', 'last_buy_time': 1658858640000}
