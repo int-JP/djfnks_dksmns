@@ -1,1 +1,1 @@
-{'market': 'REQ/USDT', 'last_buy_time': 1658794920000} {'market': 'REQ/USDT', 'last_buy_time': 1658794920000}
+{'market': 'REQ/USDT', 'last_buy_time': 1658794920000}
