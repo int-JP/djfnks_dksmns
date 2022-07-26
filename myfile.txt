@@ -1,1 +1,1 @@
-{'market': 'ETC/USDT', 'last_buy_time': 1658878920000} {'market': 'DOGE/USDT', 'last_buy_time': 1658878980000} {'market': 'VET/USDT', 'last_buy_time': 1658878980000}
+{'market': 'ETC/USDT', 'last_buy_time': 1658878920000} {'market': 'DOGE/USDT', 'last_buy_time': 1658878980000} {'market': 'VET/USDT', 'last_buy_time': 1658878980000} {'market': 'QTUM/USDT', 'last_buy_time': 1658878980000}
