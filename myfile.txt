@@ -1,1 +1,1 @@
-{'market': 'BOND/USD', 'last_buy_time': 1658815980000}
+{'market': 'BOND/USD', 'last_buy_time': 1658815980000} {'market': 'BOND/USDT', 'last_buy_time': 1658816340000} {'market': 'BOND/USDT', 'last_buy_time': 1658816340000} {'market': 'BOND/USDT', 'last_buy_time': 1658816340000}
