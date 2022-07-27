@@ -1,1 +1,1 @@
-{'market': 'VOXEL/USD', 'last_buy_time': 1658913900000} {'market': 'VOXEL/USD', 'last_buy_time': 1658913900000}
+{'market': 'VOXEL/USD', 'last_buy_time': 1658913900000} {'market': 'VOXEL/USD', 'last_buy_time': 1658913900000} {'market': 'GTC/USD', 'last_buy_time': 1658913960000} {'market': 'GTC/USD', 'last_buy_time': 1658913960000}
