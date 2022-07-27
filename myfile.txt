@@ -1,1 +1,1 @@
-{'market': 'LTC/USDT', 'last_buy_time': 1658947260000} {'market': 'ETC/USDT', 'last_buy_time': 1658947260000} {'market': 'ETC/USDT', 'last_buy_time': 1658947260000}
+{'market': 'LTC/USDT', 'last_buy_time': 1658947260000} {'market': 'ETC/USDT', 'last_buy_time': 1658947260000} {'market': 'ETC/USDT', 'last_buy_time': 1658947260000} {'market': 'XLM/USDT', 'last_buy_time': 1658947260000}
