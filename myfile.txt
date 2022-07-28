@@ -1,1 +1,1 @@
-{'market': 'ZEC/USDT', 'last_buy_time': 1659032040000}
+{'market': 'ZEC/USDT', 'last_buy_time': 1659032040000} {'market': 'VOXEL/USDT', 'last_buy_time': 1659032160000}
