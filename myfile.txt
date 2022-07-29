@@ -1,1 +1,1 @@
-{'market': 'QTUM/USDT', 'last_buy_time': 1659117660000} {'market': 'QTUM/USDT', 'last_buy_time': 1659117660000}
+{'market': 'QTUM/USDT', 'last_buy_time': 1659117660000} {'market': 'QTUM/USDT', 'last_buy_time': 1659117660000} {'market': 'DOT/USDT', 'last_buy_time': 1659117720000} {'market': 'DOT/USDT', 'last_buy_time': 1659117720000}
