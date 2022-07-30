@@ -1,1 +1,1 @@
-{'market': 'IMX/USD', 'last_buy_time': 1659215100000} {'market': 'IMX/USD', 'last_buy_time': 1659215100000}
+{'market': 'IMX/USD', 'last_buy_time': 1659215100000}
