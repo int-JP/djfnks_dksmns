@@ -1,1 +1,1 @@
-{'market': 'NMR/USDT', 'last_buy_time': 1659214020000} {'market': 'NMR/USDT', 'last_buy_time': 1659214020000} {'market': 'NMR/USDT', 'last_buy_time': 1659214020000} {'market': 'NMR/USDT', 'last_buy_time': 1659214020000}
+{'market': 'NMR/USDT', 'last_buy_time': 1659214020000} {'market': 'NMR/USDT', 'last_buy_time': 1659214020000}
