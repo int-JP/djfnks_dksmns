@@ -1,1 +1,1 @@
-{'market': 'COMP/USDT', 'last_buy_time': 1659244560000} {'market': 'COMP/USDT', 'last_buy_time': 1659244560000}
+{'market': 'COMP/USDT', 'last_buy_time': 1659244560000} {'market': 'COMP/USDT', 'last_buy_time': 1659244560000} {'market': 'BAND/USDT', 'last_buy_time': 1659244560000} {'market': 'BAND/USDT', 'last_buy_time': 1659244560000}
