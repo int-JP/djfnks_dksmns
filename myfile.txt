@@ -1,1 +1,1 @@
-{'market': 'LTC/USDT', 'last_buy_time': 1659273180000} {'market': 'ZRX/USDT', 'last_buy_time': 1659273180000} {'market': 'STORJ/USDT', 'last_buy_time': 1659273240000}
+{'market': 'LTC/USDT', 'last_buy_time': 1659273180000} {'market': 'ZRX/USDT', 'last_buy_time': 1659273180000} {'market': 'STORJ/USDT', 'last_buy_time': 1659273240000} {'market': 'ZEN/USDT', 'last_buy_time': 1659273240000}
