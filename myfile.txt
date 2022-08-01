@@ -1,1 +1,1 @@
-{'market': 'GALA/USDT', 'last_buy_time': 1659374160000} {'market': 'GALA/USDT', 'last_buy_time': 1659374160000}
+{'market': 'GALA/USDT', 'last_buy_time': 1659374160000}
