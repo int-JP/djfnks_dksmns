@@ -1,1 +1,1 @@
-{'market': 'CELR/USDT', 'last_buy_time': 1659389160000} {'market': 'CELR/USDT', 'last_buy_time': 1659389160000}
+{'market': 'CELR/USDT', 'last_buy_time': 1659389160000} {'market': 'CELR/USDT', 'last_buy_time': 1659389160000} {'market': 'CELR/USDT', 'last_buy_time': 1659389580000} {'market': 'CELR/USDT', 'last_buy_time': 1659389580000} {'market': 'CELR/USDT', 'last_buy_time': 1659389580000} {'market': 'CELR/USDT', 'last_buy_time': 1659389580000}
