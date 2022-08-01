@@ -1,1 +1,1 @@
-{'market': 'FLUX/USDT', 'last_buy_time': 1659360060000} {'market': 'FLUX/USDT', 'last_buy_time': 1659360060000} {'market': 'FLUX/USDT', 'last_buy_time': 1659360060000} {'market': 'FLUX/USD', 'last_buy_time': 1659360060000} {'market': 'FLUX/USD', 'last_buy_time': 1659360060000} {'market': 'FLUX/USD', 'last_buy_time': 1659360060000} {'market': 'FLUX/USD', 'last_buy_time': 1659360060000}
+{'market': 'FLUX/USDT', 'last_buy_time': 1659360060000} {'market': 'FLUX/USD', 'last_buy_time': 1659360060000} {'market': 'FLUX/USD', 'last_buy_time': 1659360060000}
