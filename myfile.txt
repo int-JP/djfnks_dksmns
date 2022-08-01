@@ -1,1 +1,1 @@
-{'market': 'OXT/USDT', 'last_buy_time': 1659361800000} {'market': 'OXT/USDT', 'last_buy_time': 1659361800000} {'market': 'OXT/USDT', 'last_buy_time': 1659361800000}
+{'market': 'OXT/USDT', 'last_buy_time': 1659361800000} {'market': 'OXT/USDT', 'last_buy_time': 1659361800000} {'market': 'OXT/USDT', 'last_buy_time': 1659361800000} {'market': 'POLY/USDT', 'last_buy_time': 1659361860000} {'market': 'POLY/USDT', 'last_buy_time': 1659361860000} {'market': 'POLY/USDT', 'last_buy_time': 1659361860000}
