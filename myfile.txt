@@ -1,1 +1,1 @@
-{'market': 'ETH/USDT', 'last_buy_time': 1659459780000} {'market': 'KNC/USDT', 'last_buy_time': 1659459780000} {'market': 'COMP/USDT', 'last_buy_time': 1659459780000}
+{'market': 'ETH/USDT', 'last_buy_time': 1659459780000} {'market': 'KNC/USDT', 'last_buy_time': 1659459780000} {'market': 'COMP/USDT', 'last_buy_time': 1659459780000} {'market': 'MKR/USDT', 'last_buy_time': 1659459780000}
