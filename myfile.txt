@@ -1,1 +1,1 @@
-{'market': 'TFUEL/USD', 'last_buy_time': 1659480240000} {'market': 'TFUEL/USD', 'last_buy_time': 1659480240000} {'market': 'TFUEL/USD', 'last_buy_time': 1659480240000} {'market': 'TFUEL/USD', 'last_buy_time': 1659480240000}
+{'market': 'TFUEL/USD', 'last_buy_time': 1659480240000} {'market': 'TFUEL/USD', 'last_buy_time': 1659480240000}
