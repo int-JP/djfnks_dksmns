@@ -1,1 +1,0 @@
-{'market': 'CELR/USD', 'last_buy_time': 1659486180000}
