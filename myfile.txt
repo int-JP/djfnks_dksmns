@@ -1,1 +1,1 @@
-{'market': 'ETH/USDT', 'last_buy_time': 1659534960000} {'market': 'ETH/USDT', 'last_buy_time': 1659534960000}
+{'market': 'ETH/USDT', 'last_buy_time': 1659534960000} {'market': 'ETH/USDT', 'last_buy_time': 1659534960000} {'market': 'ATOM/USDT', 'last_buy_time': 1659534960000} {'market': 'ATOM/USDT', 'last_buy_time': 1659534960000} {'market': 'ATOM/USDT', 'last_buy_time': 1659534960000}
