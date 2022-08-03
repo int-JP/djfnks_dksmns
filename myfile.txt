@@ -1,1 +1,1 @@
-{'market': 'APE/USDT', 'last_buy_time': 1659498900000} {'market': 'APE/USDT', 'last_buy_time': 1659498900000} {'market': 'APE/USDT', 'last_buy_time': 1659498900000} {'market': 'FIL/USDT', 'last_buy_time': 1659499200000}
+{'market': 'APE/USDT', 'last_buy_time': 1659498900000} {'market': 'FIL/USDT', 'last_buy_time': 1659499200000}
