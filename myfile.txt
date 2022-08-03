@@ -1,1 +1,1 @@
-{'market': 'POLY/BTC', 'last_buy_time': 1659567540000} {'market': 'POLY/BTC', 'last_buy_time': 1659567540000}
+{'market': 'POLY/BTC', 'last_buy_time': 1659567540000}
