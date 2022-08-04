@@ -1,1 +1,1 @@
-{'market': 'PORTO/USD', 'last_buy_time': 1659603360000} {'market': 'PORTO/USD', 'last_buy_time': 1659603360000} {'market': 'PORTO/USD', 'last_buy_time': 1659603360000}
+{'market': 'PORTO/USD', 'last_buy_time': 1659603360000}
