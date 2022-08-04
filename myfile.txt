@@ -1,1 +1,1 @@
-{'market': 'TLM/USD', 'last_buy_time': 1659574140000} {'market': 'TLM/USDT', 'last_buy_time': 1659574620000} {'market': 'TLM/USDT', 'last_buy_time': 1659574620000}
+{'market': 'TLM/USD', 'last_buy_time': 1659574140000} {'market': 'TLM/USDT', 'last_buy_time': 1659574620000} {'market': 'TLM/USDT', 'last_buy_time': 1659574620000} {'market': 'ENS/USD', 'last_buy_time': 1659574680000} {'market': 'ENS/USD', 'last_buy_time': 1659574680000}
