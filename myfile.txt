@@ -1,1 +1,1 @@
-{'market': 'KDA/USD', 'last_buy_time': 1659596880000} {'market': 'KDA/USD', 'last_buy_time': 1659596880000}
+{'market': 'KDA/USD', 'last_buy_time': 1659596880000}
