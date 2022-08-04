@@ -1,1 +1,1 @@
-{'market': 'CTSI/USDT', 'last_buy_time': 1659627060000} {'market': 'CTSI/USDT', 'last_buy_time': 1659627060000} {'market': 'FTM/USDT', 'last_buy_time': 1659627060000} {'market': 'FTM/USDT', 'last_buy_time': 1659627060000}
+{'market': 'CTSI/USDT', 'last_buy_time': 1659627060000} {'market': 'CTSI/USDT', 'last_buy_time': 1659627060000} {'market': 'FTM/USDT', 'last_buy_time': 1659627060000} {'market': 'FTM/USDT', 'last_buy_time': 1659627060000} {'market': 'FET/USD', 'last_buy_time': 1659627300000}
