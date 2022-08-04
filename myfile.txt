@@ -1,1 +1,1 @@
-{'market': 'LPT/USD', 'last_buy_time': 1659582720000} {'market': 'TLM/USDT', 'last_buy_time': 1659582780000} {'market': 'TLM/USD', 'last_buy_time': 1659582780000} {'market': 'TLM/USDT', 'last_buy_time': 1659583140000}
+{'market': 'TLM/USDT', 'last_buy_time': 1659582780000} {'market': 'TLM/USD', 'last_buy_time': 1659582780000} {'market': 'TLM/USDT', 'last_buy_time': 1659583140000}
