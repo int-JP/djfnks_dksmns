@@ -1,1 +1,1 @@
-{'market': 'API3/USD', 'last_buy_time': 1659640260000} {'market': 'CELR/USDT', 'last_buy_time': 1659640320000} {'market': 'CELR/USD', 'last_buy_time': 1659640320000} {'market': 'CELR/USD', 'last_buy_time': 1659640320000}
+{'market': 'API3/USD', 'last_buy_time': 1659640260000} {'market': 'CELR/USDT', 'last_buy_time': 1659640320000} {'market': 'CELR/USD', 'last_buy_time': 1659640320000} {'market': 'CELR/USD', 'last_buy_time': 1659640320000} {'market': 'DAR/USD', 'last_buy_time': 1659640380000}
