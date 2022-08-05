@@ -1,1 +1,1 @@
-{'market': 'VET/USDT', 'last_buy_time': 1659710640000} {'market': 'QTUM/USDT', 'last_buy_time': 1659710640000} {'market': 'KNC/USDT', 'last_buy_time': 1659710700000} {'market': 'KNC/USDT', 'last_buy_time': 1659710700000}
+{'market': 'VET/USDT', 'last_buy_time': 1659710640000} {'market': 'QTUM/USDT', 'last_buy_time': 1659710640000} {'market': 'KNC/USDT', 'last_buy_time': 1659710700000} {'market': 'KNC/USDT', 'last_buy_time': 1659710700000} {'market': 'FIL/USDT', 'last_buy_time': 1659710700000}
