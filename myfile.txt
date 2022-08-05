@@ -1,1 +1,1 @@
-{'market': 'API3/USD', 'last_buy_time': 1659713580000} {'market': 'VTHO/USDT', 'last_buy_time': 1659713940000} {'market': 'VTHO/USDT', 'last_buy_time': 1659713940000} {'market': 'VTHO/USDT', 'last_buy_time': 1659713940000}
+{'market': 'VTHO/USDT', 'last_buy_time': 1659713940000} {'market': 'VTHO/USDT', 'last_buy_time': 1659713940000} {'market': 'VTHO/USDT', 'last_buy_time': 1659713940000}
