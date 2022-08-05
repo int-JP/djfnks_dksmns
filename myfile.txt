@@ -1,1 +1,1 @@
-{'market': 'CELO/USD', 'last_buy_time': 1659724800000} {'market': 'CELO/USD', 'last_buy_time': 1659724800000} {'market': 'CELO/USD', 'last_buy_time': 1659724800000}
+{'market': 'CELO/USD', 'last_buy_time': 1659724800000} {'market': 'CELO/USD', 'last_buy_time': 1659724800000} {'market': 'CELO/USD', 'last_buy_time': 1659724800000} {'market': 'NMR/USDT', 'last_buy_time': 1659725340000} {'market': 'NMR/USDT', 'last_buy_time': 1659725340000} {'market': 'NMR/USDT', 'last_buy_time': 1659725340000} {'market': 'NMR/USDT', 'last_buy_time': 1659725340000}
