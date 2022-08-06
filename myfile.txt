@@ -1,1 +1,1 @@
-{'market': 'SUSHI/USDT', 'last_buy_time': 1659777720000} {'market': 'FLUX/USD', 'last_buy_time': 1659778260000} {'market': 'FLUX/USD', 'last_buy_time': 1659778260000} {'market': 'FLUX/USD', 'last_buy_time': 1659778260000} {'market': 'FLUX/USD', 'last_buy_time': 1659778260000}
+{'market': 'FLUX/USD', 'last_buy_time': 1659778260000} {'market': 'FLUX/USD', 'last_buy_time': 1659778260000} {'market': 'FLUX/USD', 'last_buy_time': 1659778260000} {'market': 'FLUX/USD', 'last_buy_time': 1659778260000}
