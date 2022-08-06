@@ -1,1 +1,1 @@
-{'market': 'KSM/USD', 'last_buy_time': 1659785400000} {'market': 'KSM/USD', 'last_buy_time': 1659785400000} {'market': 'KSM/USD', 'last_buy_time': 1659785400000}
+{'market': 'KSM/USD', 'last_buy_time': 1659785400000}
