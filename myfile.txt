@@ -1,1 +1,1 @@
-{'market': 'CHZ/USDT', 'last_buy_time': 1659786420000} {'market': 'CHZ/USDT', 'last_buy_time': 1659786420000}
+{'market': 'CHZ/USDT', 'last_buy_time': 1659786420000} {'market': 'CHZ/USDT', 'last_buy_time': 1659786420000} {'market': 'TRX/USDT', 'last_buy_time': 1659786720000} {'market': 'TRX/USDT', 'last_buy_time': 1659786720000} {'market': 'TRX/USDT', 'last_buy_time': 1659786720000} {'market': 'TRX/USDT', 'last_buy_time': 1659786720000} {'market': 'TRX/USDT', 'last_buy_time': 1659786720000} {'market': 'TRX/USDT', 'last_buy_time': 1659786720000}
