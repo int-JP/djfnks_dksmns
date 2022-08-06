@@ -1,1 +1,1 @@
-{'market': 'XLM/USDT', 'last_buy_time': 1659808440000} {'market': 'QTUM/USDT', 'last_buy_time': 1659808440000} {'market': 'STORJ/USDT', 'last_buy_time': 1659808440000} {'market': 'STORJ/USDT', 'last_buy_time': 1659808440000}
+{'market': 'XLM/USDT', 'last_buy_time': 1659808440000} {'market': 'QTUM/USDT', 'last_buy_time': 1659808440000} {'market': 'STORJ/USDT', 'last_buy_time': 1659808440000} {'market': 'STORJ/USDT', 'last_buy_time': 1659808440000} {'market': 'ZEN/USDT', 'last_buy_time': 1659808500000} {'market': 'ZEN/USDT', 'last_buy_time': 1659808500000}
