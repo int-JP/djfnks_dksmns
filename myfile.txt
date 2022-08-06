@@ -1,1 +1,1 @@
-{'market': 'OP/USDT', 'last_buy_time': 1659787440000} {'market': 'OP/USDT', 'last_buy_time': 1659787440000} {'market': 'OP/USD', 'last_buy_time': 1659787440000} {'market': 'OP/USD', 'last_buy_time': 1659787440000} {'market': 'OP/USD', 'last_buy_time': 1659787440000}
+{'market': 'OP/USDT', 'last_buy_time': 1659787440000} {'market': 'OP/USD', 'last_buy_time': 1659787440000}
