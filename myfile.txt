@@ -1,1 +1,1 @@
-{'market': 'AXS/USDT', 'last_buy_time': 1659841260000} {'market': 'AXS/USDT', 'last_buy_time': 1659841260000}
+{'market': 'AXS/USDT', 'last_buy_time': 1659841260000}
