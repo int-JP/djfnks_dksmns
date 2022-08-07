@@ -1,1 +1,1 @@
-{'market': 'CHZ/USD', 'last_buy_time': 1659862620000} {'market': 'CHZ/USD', 'last_buy_time': 1659862620000} {'market': 'CHZ/USD', 'last_buy_time': 1659862620000} {'market': 'ATOM/USDT', 'last_buy_time': 1659863340000} {'market': 'ATOM/USDT', 'last_buy_time': 1659863340000}
+{'market': 'CHZ/USD', 'last_buy_time': 1659862620000} {'market': 'ATOM/USDT', 'last_buy_time': 1659863340000} {'market': 'ATOM/USDT', 'last_buy_time': 1659863340000}
