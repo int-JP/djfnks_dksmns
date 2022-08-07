@@ -1,1 +1,1 @@
-{'market': 'AVAX/USDT', 'last_buy_time': 1659839160000}
+{'market': 'AVAX/USDT', 'last_buy_time': 1659839160000} {'market': 'AVAX/USDT', 'last_buy_time': 1659839520000} {'market': 'AVAX/USDT', 'last_buy_time': 1659839520000}
