@@ -1,1 +1,1 @@
-{'market': 'ZEC/USDT', 'last_buy_time': 1659995700000} {'market': 'ZEC/USDT', 'last_buy_time': 1659995700000} {'market': 'ZEC/USDT', 'last_buy_time': 1659995700000} {'market': 'ZEC/USDT', 'last_buy_time': 1659995700000} {'market': 'ZEC/USDT', 'last_buy_time': 1659995700000}
+{'market': 'ZEC/USDT', 'last_buy_time': 1659995700000} {'market': 'ZEC/USDT', 'last_buy_time': 1659995700000}
