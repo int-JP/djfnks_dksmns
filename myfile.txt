@@ -1,1 +1,1 @@
-{'market': 'IMX/USD', 'last_buy_time': 1659988860000} {'market': 'IMX/USD', 'last_buy_time': 1659988860000}
+{'market': 'IMX/USD', 'last_buy_time': 1659988860000} {'market': 'IMX/USD', 'last_buy_time': 1659988860000} {'market': 'ZEC/USDT', 'last_buy_time': 1659989460000} {'market': 'ZEC/USDT', 'last_buy_time': 1659989460000} {'market': 'ZEC/USDT', 'last_buy_time': 1659989460000} {'market': 'ZEC/USDT', 'last_buy_time': 1659989460000} {'market': 'ZEC/USDT', 'last_buy_time': 1659989460000}
