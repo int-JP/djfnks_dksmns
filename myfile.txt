@@ -1,1 +1,1 @@
-{'market': 'LINK/USDT', 'last_buy_time': 1659925740000} {'market': 'BICO/USD', 'last_buy_time': 1659926100000} {'market': 'KDA/USD', 'last_buy_time': 1659926460000} {'market': 'KDA/USD', 'last_buy_time': 1659926460000}
+{'market': 'BICO/USD', 'last_buy_time': 1659926100000} {'market': 'KDA/USD', 'last_buy_time': 1659926460000} {'market': 'KDA/USD', 'last_buy_time': 1659926460000} {'market': 'KNC/USDT', 'last_buy_time': 1659926640000} {'market': 'KNC/USDT', 'last_buy_time': 1659926640000} {'market': 'KNC/USDT', 'last_buy_time': 1659926640000}
