@@ -1,1 +1,1 @@
-{'market': 'SPELL/USD', 'last_buy_time': 1660063560000} {'market': 'SPELL/USD', 'last_buy_time': 1660063560000} {'market': 'SPELL/USD', 'last_buy_time': 1660063560000}
+{'market': 'SPELL/USD', 'last_buy_time': 1660063560000} {'market': 'SPELL/USD', 'last_buy_time': 1660063560000} {'market': 'SPELL/USD', 'last_buy_time': 1660063560000} {'market': 'RAD/USD', 'last_buy_time': 1660064100000} {'market': 'RAD/USD', 'last_buy_time': 1660064100000}
