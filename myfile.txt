@@ -1,1 +1,1 @@
-{'market': 'QTUM/USDT', 'last_buy_time': 1660097760000}
+{'market': 'QTUM/USDT', 'last_buy_time': 1660097760000} {'market': 'VOXEL/USD', 'last_buy_time': 1660097940000}
