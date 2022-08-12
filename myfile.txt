@@ -1,1 +1,1 @@
-{'market': 'AAVE/USDT', 'last_buy_time': 1660317720000}
+{'market': 'AAVE/USDT', 'last_buy_time': 1660317720000} {'market': 'LINK/USDT', 'last_buy_time': 1660317720000}
