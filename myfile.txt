@@ -1,1 +1,1 @@
-{'market': 'FIL/USDT', 'last_buy_time': 1660326660000}
+{'market': 'FIL/USDT', 'last_buy_time': 1660326660000} {'market': 'AAVE/USDT', 'last_buy_time': 1660326660000} {'market': 'AAVE/USDT', 'last_buy_time': 1660326660000}
