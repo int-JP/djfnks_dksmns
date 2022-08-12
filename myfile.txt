@@ -1,1 +1,1 @@
-{'market': 'GRT/USDT', 'last_buy_time': 1660284600000} {'market': 'LPT/USDT', 'last_buy_time': 1660284660000} {'market': 'API3/USDT', 'last_buy_time': 1660284720000} {'market': 'API3/USDT', 'last_buy_time': 1660284720000}
+{'market': 'GRT/USDT', 'last_buy_time': 1660284600000} {'market': 'LPT/USDT', 'last_buy_time': 1660284660000} {'market': 'API3/USDT', 'last_buy_time': 1660284720000} {'market': 'API3/USDT', 'last_buy_time': 1660284720000} {'market': 'API3/USD', 'last_buy_time': 1660284720000} {'market': 'API3/USD', 'last_buy_time': 1660284720000}
