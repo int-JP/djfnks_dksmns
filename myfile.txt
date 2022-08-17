@@ -1,1 +1,1 @@
-{'market': 'ENS/USDT', 'last_buy_time': 1660770360000} {'market': 'CHZ/USDT', 'last_buy_time': 1660770720000} {'market': 'CHZ/USDT', 'last_buy_time': 1660770720000}
+{'market': 'ENS/USDT', 'last_buy_time': 1660770360000} {'market': 'CHZ/USDT', 'last_buy_time': 1660770720000} {'market': 'CHZ/USDT', 'last_buy_time': 1660770720000} {'market': 'CHZ/USD', 'last_buy_time': 1660770720000} {'market': 'CHZ/USD', 'last_buy_time': 1660770720000} {'market': 'CHZ/USD', 'last_buy_time': 1660770720000} {'market': 'CHZ/USD', 'last_buy_time': 1660770720000}
