@@ -1,1 +1,1 @@
-{'market': 'BTC/USDT', 'last_buy_time': 1660705860000} {'market': 'LTC/USDT', 'last_buy_time': 1660705860000} {'market': 'LTC/USDT', 'last_buy_time': 1660705860000} {'market': 'XLM/USDT', 'last_buy_time': 1660705860000}
+{'market': 'BTC/USDT', 'last_buy_time': 1660705860000} {'market': 'LTC/USDT', 'last_buy_time': 1660705860000} {'market': 'LTC/USDT', 'last_buy_time': 1660705860000} {'market': 'XLM/USDT', 'last_buy_time': 1660705860000} {'market': 'NEO/USDT', 'last_buy_time': 1660705860000} {'market': 'NEO/USDT', 'last_buy_time': 1660705860000}
