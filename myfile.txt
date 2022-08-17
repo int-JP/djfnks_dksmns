@@ -1,1 +1,1 @@
-{'market': 'SANTOS/USDT', 'last_buy_time': 1660763640000} {'market': 'SANTOS/USDT', 'last_buy_time': 1660763640000} {'market': 'SANTOS/USDT', 'last_buy_time': 1660763640000}
+{'market': 'SANTOS/USDT', 'last_buy_time': 1660763640000}
