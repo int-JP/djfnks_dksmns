@@ -1,1 +1,1 @@
-{'market': 'CHZ/USD', 'last_buy_time': 1660771080000} {'market': 'CHZ/USD', 'last_buy_time': 1660771080000}
+{'market': 'CHZ/USD', 'last_buy_time': 1660771080000}
