@@ -1,1 +1,1 @@
-{'market': 'ZEN/USDT', 'last_buy_time': 1660754400000}
+{'market': 'ZEN/USDT', 'last_buy_time': 1660754400000} {'market': 'ZEN/USDT', 'last_buy_time': 1660754700000} {'market': 'ZEN/USDT', 'last_buy_time': 1660754700000}
