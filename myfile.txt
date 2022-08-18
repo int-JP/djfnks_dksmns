@@ -1,1 +1,1 @@
-{'market': 'NMR/USDT', 'last_buy_time': 1660832640000} {'market': 'ALPINE/USDT', 'last_buy_time': 1660832880000} {'market': 'ALPINE/USD', 'last_buy_time': 1660832880000} {'market': 'ALPINE/USD', 'last_buy_time': 1660832880000} {'market': 'ALPINE/USD', 'last_buy_time': 1660832880000}
+{'market': 'ALPINE/USDT', 'last_buy_time': 1660832880000} {'market': 'ALPINE/USD', 'last_buy_time': 1660832880000} {'market': 'ALPINE/USD', 'last_buy_time': 1660832880000} {'market': 'ALPINE/USD', 'last_buy_time': 1660832880000}
