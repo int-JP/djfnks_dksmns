@@ -1,1 +1,1 @@
-{'market': 'API3/USD', 'last_buy_time': 1660797540000} {'market': 'SANTOS/USD', 'last_buy_time': 1660797540000} {'market': 'API3/USD', 'last_buy_time': 1660797900000}
+{'market': 'API3/USD', 'last_buy_time': 1660797540000} {'market': 'SANTOS/USD', 'last_buy_time': 1660797540000} {'market': 'API3/USD', 'last_buy_time': 1660797900000} {'market': 'APE/USDT', 'last_buy_time': 1660798200000} {'market': 'APE/USDT', 'last_buy_time': 1660798200000}
