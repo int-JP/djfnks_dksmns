@@ -1,1 +1,1 @@
-{'market': 'LTC/USDT', 'last_buy_time': 1660825920000}
+{'market': 'LTC/USDT', 'last_buy_time': 1660825920000} {'market': 'BAND/USDT', 'last_buy_time': 1660825920000}
