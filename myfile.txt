@@ -1,1 +1,1 @@
-{'market': 'SANTOS/USD', 'last_buy_time': 1660898520000}
+{'market': 'SANTOS/USD', 'last_buy_time': 1660898520000} {'market': 'SANTOS/USD', 'last_buy_time': 1660898820000}
