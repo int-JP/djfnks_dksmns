@@ -1,1 +1,1 @@
-{'market': 'SPELL/USDT', 'last_buy_time': 1660922520000} {'market': 'SPELL/USDT', 'last_buy_time': 1660922940000} {'market': 'SPELL/USDT', 'last_buy_time': 1660922940000} {'market': 'SPELL/USDT', 'last_buy_time': 1660922940000} {'market': 'SPELL/USDT', 'last_buy_time': 1660922940000}
+{'market': 'SPELL/USDT', 'last_buy_time': 1660922940000} {'market': 'SPELL/USDT', 'last_buy_time': 1660922940000} {'market': 'SPELL/USDT', 'last_buy_time': 1660922940000} {'market': 'SPELL/USDT', 'last_buy_time': 1660922940000}
