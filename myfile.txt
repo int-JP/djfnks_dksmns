@@ -1,1 +1,1 @@
-{'market': 'ALPINE/USD', 'last_buy_time': 1660889460000} {'market': 'ALPINE/USD', 'last_buy_time': 1660889460000} {'market': 'ALPINE/USD', 'last_buy_time': 1660889460000} {'market': 'SANTOS/USDT', 'last_buy_time': 1660889820000}
+{'market': 'ALPINE/USD', 'last_buy_time': 1660889460000} {'market': 'SANTOS/USDT', 'last_buy_time': 1660889820000}
