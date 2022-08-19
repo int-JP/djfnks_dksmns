@@ -1,1 +1,1 @@
-{'market': 'KDA/USDT', 'last_buy_time': 1660926180000}
+{'market': 'KDA/USDT', 'last_buy_time': 1660926180000} {'market': 'ATOM/USDT', 'last_buy_time': 1660926240000}
