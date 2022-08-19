@@ -1,1 +1,0 @@
-{'market': 'RAD/USD', 'last_buy_time': 1660915560000}
