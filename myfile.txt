@@ -1,1 +1,1 @@
-{'market': 'LAZIO/USD', 'last_buy_time': 1660887660000}
+{'market': 'LAZIO/USD', 'last_buy_time': 1660887660000} {'market': 'LAZIO/USD', 'last_buy_time': 1660888380000} {'market': 'LAZIO/USD', 'last_buy_time': 1660888380000}
