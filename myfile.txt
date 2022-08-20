@@ -1,1 +1,1 @@
-{'market': 'KNC/USDT', 'last_buy_time': 1661007720000} {'market': 'ALGO/USDT', 'last_buy_time': 1661007780000} {'market': 'TRX/USDT', 'last_buy_time': 1661008560000}
+{'market': 'ALGO/USDT', 'last_buy_time': 1661007780000} {'market': 'TRX/USDT', 'last_buy_time': 1661008560000}
