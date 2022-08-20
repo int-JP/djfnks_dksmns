@@ -1,1 +1,1 @@
-{'market': 'EOS/USDT', 'last_buy_time': 1661024280000}
+{'market': 'EOS/USDT', 'last_buy_time': 1661024280000} {'market': 'EOS/USDT', 'last_buy_time': 1661024700000}
