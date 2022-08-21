@@ -1,1 +1,1 @@
-{'market': 'LOKA/USD', 'last_buy_time': 1661092200000} {'market': 'LOKA/USD', 'last_buy_time': 1661092920000}
+{'market': 'LOKA/USD', 'last_buy_time': 1661092920000}
