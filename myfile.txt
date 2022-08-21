@@ -1,1 +1,1 @@
-{'market': 'TRX/USD', 'last_buy_time': 1661044260000} {'market': 'TRX/USD', 'last_buy_time': 1661044800000} {'market': 'TRX/USD', 'last_buy_time': 1661044800000} {'market': 'TRX/USD', 'last_buy_time': 1661044800000}
+{'market': 'TRX/USD', 'last_buy_time': 1661044800000} {'market': 'TRX/USD', 'last_buy_time': 1661044800000} {'market': 'TRX/USD', 'last_buy_time': 1661044800000}
