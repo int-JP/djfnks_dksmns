@@ -1,1 +1,1 @@
-{'market': 'GRT/USDT', 'last_buy_time': 1661090820000} {'market': 'GRT/USDT', 'last_buy_time': 1661090820000} {'market': 'RARE/USD', 'last_buy_time': 1661091480000}
+{'market': 'GRT/USDT', 'last_buy_time': 1661090820000} {'market': 'RARE/USD', 'last_buy_time': 1661091480000}
