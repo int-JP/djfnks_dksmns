@@ -1,1 +1,1 @@
-{'market': 'RAD/USD', 'last_buy_time': 1661043960000} {'market': 'RAD/USD', 'last_buy_time': 1661043960000}
+{'market': 'RAD/USD', 'last_buy_time': 1661043960000} {'market': 'RAD/USD', 'last_buy_time': 1661043960000} {'market': 'TRX/USD', 'last_buy_time': 1661044260000} {'market': 'TRX/USD', 'last_buy_time': 1661044260000}
