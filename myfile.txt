@@ -1,1 +1,1 @@
-{'market': 'KNC/USDT', 'last_buy_time': 1661139960000} {'market': 'KNC/USDT', 'last_buy_time': 1661139960000} {'market': 'LAZIO/USD', 'last_buy_time': 1661140440000}
+{'market': 'KNC/USDT', 'last_buy_time': 1661139960000} {'market': 'LAZIO/USD', 'last_buy_time': 1661140440000}
