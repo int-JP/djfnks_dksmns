@@ -1,1 +1,1 @@
-{'market': 'POLY/BUSD', 'last_buy_time': 1661132040000} {'market': 'POLY/BUSD', 'last_buy_time': 1661132040000}
+{'market': 'POLY/BUSD', 'last_buy_time': 1661132040000}
