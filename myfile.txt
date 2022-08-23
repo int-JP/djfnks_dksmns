@@ -1,1 +1,1 @@
-{'market': 'NMR/USDT', 'last_buy_time': 1661227140000}
+{'market': 'NMR/USDT', 'last_buy_time': 1661227140000} {'market': 'ALGO/USDT', 'last_buy_time': 1661227980000}
