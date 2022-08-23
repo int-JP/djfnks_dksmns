@@ -1,1 +1,1 @@
-{'market': 'COTI/USDT', 'last_buy_time': 1661232840000} {'market': 'POLY/BUSD', 'last_buy_time': 1661233560000}
+{'market': 'POLY/BUSD', 'last_buy_time': 1661233560000}
