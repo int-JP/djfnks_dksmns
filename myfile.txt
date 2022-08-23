@@ -1,1 +1,1 @@
-{'market': 'FLOW/USD', 'last_buy_time': 1661283660000} {'market': 'MATIC/USDT', 'last_buy_time': 1661284440000} {'market': 'MATIC/USDT', 'last_buy_time': 1661284440000}
+{'market': 'FLOW/USD', 'last_buy_time': 1661283660000} {'market': 'MATIC/USDT', 'last_buy_time': 1661284440000} {'market': 'MATIC/USDT', 'last_buy_time': 1661284440000} {'market': 'LINK/USDT', 'last_buy_time': 1661284440000} {'market': 'LINK/USDT', 'last_buy_time': 1661284440000} {'market': 'LINK/USDT', 'last_buy_time': 1661284440000}
