@@ -1,1 +1,1 @@
-{'market': 'ENJ/USDT', 'last_buy_time': 1661287200000} {'market': 'ENJ/USDT', 'last_buy_time': 1661287200000} {'market': 'ENJ/USDT', 'last_buy_time': 1661287200000} {'market': 'ENJ/USDT', 'last_buy_time': 1661287200000} {'market': 'TFUEL/USDT', 'last_buy_time': 1661287680000} {'market': 'TFUEL/USDT', 'last_buy_time': 1661287680000}
+{'market': 'ENJ/USDT', 'last_buy_time': 1661287200000} {'market': 'ENJ/USDT', 'last_buy_time': 1661287200000} {'market': 'TFUEL/USDT', 'last_buy_time': 1661287680000} {'market': 'TFUEL/USDT', 'last_buy_time': 1661287680000}
