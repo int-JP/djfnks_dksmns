@@ -1,1 +1,1 @@
-{'market': 'BOND/USDT', 'last_buy_time': 1661308320000} {'market': 'LOKA/USDT', 'last_buy_time': 1661308320000} {'market': 'LOKA/USDT', 'last_buy_time': 1661308320000}
+{'market': 'LOKA/USDT', 'last_buy_time': 1661308320000}
