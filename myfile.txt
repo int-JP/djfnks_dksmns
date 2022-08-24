@@ -1,1 +1,1 @@
-{'market': 'CELO/USD', 'last_buy_time': 1661301720000} {'market': 'CELO/USD', 'last_buy_time': 1661301720000} {'market': 'CELO/USD', 'last_buy_time': 1661301720000}
+{'market': 'CELO/USD', 'last_buy_time': 1661301720000}
