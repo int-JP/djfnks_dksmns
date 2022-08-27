@@ -1,1 +1,1 @@
-{'market': 'FLUX/USDT', 'last_buy_time': 1661591460000} {'market': 'FLUX/USDT', 'last_buy_time': 1661591460000} {'market': 'FLUX/USDT', 'last_buy_time': 1661591460000}
+{'market': 'FLUX/USDT', 'last_buy_time': 1661591460000}
