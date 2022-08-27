@@ -1,1 +1,1 @@
-{'market': 'ANT/USD', 'last_buy_time': 1661610120000} {'market': 'ANT/USD', 'last_buy_time': 1661610120000}
+{'market': 'ANT/USD', 'last_buy_time': 1661610120000} {'market': 'ANT/USD', 'last_buy_time': 1661610120000} {'market': 'SNX/USDT', 'last_buy_time': 1661610180000}
