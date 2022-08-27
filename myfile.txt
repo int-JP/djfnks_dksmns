@@ -1,1 +1,1 @@
-{'market': 'ICP/USD', 'last_buy_time': 1661615160000} {'market': 'RLC/USDT', 'last_buy_time': 1661615820000} {'market': 'RLC/USDT', 'last_buy_time': 1661615820000}
+{'market': 'RLC/USDT', 'last_buy_time': 1661615820000} {'market': 'RLC/USDT', 'last_buy_time': 1661615820000}
