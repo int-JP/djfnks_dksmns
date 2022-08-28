@@ -1,1 +1,1 @@
-{'market': 'GALA/USD', 'last_buy_time': 1661700420000} {'market': 'GALA/USD', 'last_buy_time': 1661700420000}
+{'market': 'GALA/USD', 'last_buy_time': 1661700420000} {'market': 'GALA/USD', 'last_buy_time': 1661700420000} {'market': 'VET/USDT', 'last_buy_time': 1661700660000} {'market': 'VET/USDT', 'last_buy_time': 1661700660000} {'market': 'VET/USDT', 'last_buy_time': 1661700660000}
