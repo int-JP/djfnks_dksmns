@@ -1,1 +1,1 @@
-{'market': 'ENS/USD', 'last_buy_time': 1661677140000} {'market': 'ENS/USD', 'last_buy_time': 1661677140000}
+{'market': 'ENS/USD', 'last_buy_time': 1661677140000}
