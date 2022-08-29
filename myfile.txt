@@ -1,1 +1,1 @@
-{'market': 'NEAR/USDT', 'last_buy_time': 1661772180000} {'market': 'NEAR/USDT', 'last_buy_time': 1661772180000} {'market': 'AAVE/USDT', 'last_buy_time': 1661773020000}
+{'market': 'NEAR/USDT', 'last_buy_time': 1661772180000} {'market': 'AAVE/USDT', 'last_buy_time': 1661773020000}
