@@ -1,1 +1,1 @@
-{'market': 'COMP/USDT', 'last_buy_time': 1661787120000} {'market': 'COMP/USDT', 'last_buy_time': 1661787120000} {'market': 'XNO/USD', 'last_buy_time': 1661787300000} {'market': 'XNO/USD', 'last_buy_time': 1661787300000}
+{'market': 'COMP/USDT', 'last_buy_time': 1661787120000} {'market': 'COMP/USDT', 'last_buy_time': 1661787120000} {'market': 'XNO/USD', 'last_buy_time': 1661787300000} {'market': 'XNO/USD', 'last_buy_time': 1661787300000} {'market': 'CHZ/USDT', 'last_buy_time': 1661787300000}
