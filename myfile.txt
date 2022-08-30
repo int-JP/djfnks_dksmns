@@ -1,1 +1,1 @@
-{'market': 'CELO/USDT', 'last_buy_time': 1661861700000} {'market': 'ETC/USDT', 'last_buy_time': 1661861880000} {'market': 'ETC/USDT', 'last_buy_time': 1661861880000}
+{'market': 'ETC/USDT', 'last_buy_time': 1661861880000} {'market': 'ETC/USDT', 'last_buy_time': 1661861880000}
