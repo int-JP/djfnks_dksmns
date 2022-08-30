@@ -1,1 +1,1 @@
-{'market': 'TRX/BTC', 'last_buy_time': 1661868300000} {'market': 'TRX/BTC', 'last_buy_time': 1661869020000} {'market': 'TRX/BTC', 'last_buy_time': 1661869020000}
+{'market': 'TRX/BTC', 'last_buy_time': 1661868300000} {'market': 'TRX/BTC', 'last_buy_time': 1661869020000} {'market': 'TRX/BTC', 'last_buy_time': 1661869020000} {'market': 'TRX/USD', 'last_buy_time': 1661869080000} {'market': 'TRX/USD', 'last_buy_time': 1661869080000}
