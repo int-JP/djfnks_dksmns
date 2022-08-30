@@ -1,1 +1,0 @@
-{'market': 'ETC/USDT', 'last_buy_time': 1661861880000}
