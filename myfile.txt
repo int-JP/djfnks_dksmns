@@ -1,1 +1,1 @@
-{'market': 'SPELL/USD', 'last_buy_time': 1661960820000}
+{'market': 'SPELL/USD', 'last_buy_time': 1661960820000} {'market': 'NEAR/BUSD', 'last_buy_time': 1661961180000} {'market': 'NEAR/BUSD', 'last_buy_time': 1661961180000}
