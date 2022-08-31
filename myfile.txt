@@ -1,1 +1,1 @@
-{'market': 'MANA/USDT', 'last_buy_time': 1661955960000} {'market': 'MANA/USDT', 'last_buy_time': 1661955960000} {'market': 'RLC/USD', 'last_buy_time': 1661956260000} {'market': 'RLC/USD', 'last_buy_time': 1661956260000}
+{'market': 'MANA/USDT', 'last_buy_time': 1661955960000} {'market': 'RLC/USD', 'last_buy_time': 1661956260000} {'market': 'RLC/USD', 'last_buy_time': 1661956260000}
