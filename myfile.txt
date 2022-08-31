@@ -1,1 +1,1 @@
-{'market': 'JASMY/USD', 'last_buy_time': 1661947740000} {'market': 'JASMY/USD', 'last_buy_time': 1661947740000}
+{'market': 'JASMY/USD', 'last_buy_time': 1661947740000} {'market': 'JASMY/USD', 'last_buy_time': 1661947740000} {'market': 'XLM/USDT', 'last_buy_time': 1661948340000} {'market': 'XLM/USDT', 'last_buy_time': 1661948340000} {'market': 'XLM/USDT', 'last_buy_time': 1661948340000} {'market': 'XLM/USDT', 'last_buy_time': 1661948340000}
