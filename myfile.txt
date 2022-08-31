@@ -1,1 +1,1 @@
-{'market': 'PORTO/USDT', 'last_buy_time': 1661942940000} {'market': 'FLUX/USD', 'last_buy_time': 1661943540000}
+{'market': 'FLUX/USD', 'last_buy_time': 1661943540000}
