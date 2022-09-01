@@ -1,1 +1,1 @@
-{'market': 'KDA/USD', 'last_buy_time': 1661991780000} {'market': 'KDA/USD', 'last_buy_time': 1661991780000} {'market': 'KDA/USD', 'last_buy_time': 1661991780000}
+{'market': 'KDA/USD', 'last_buy_time': 1661991780000} {'market': 'KDA/USD', 'last_buy_time': 1661991780000} {'market': 'KDA/USD', 'last_buy_time': 1661991780000} {'market': 'ANT/USDT', 'last_buy_time': 1661992380000} {'market': 'ANT/USDT', 'last_buy_time': 1661992380000} {'market': 'ANT/USD', 'last_buy_time': 1661992380000}
