@@ -1,1 +1,1 @@
-{'market': 'MATIC/USDT', 'last_buy_time': 1662042780000} {'market': 'SYS/USD', 'last_buy_time': 1662043020000} {'market': 'SYS/USD', 'last_buy_time': 1662043380000} {'market': 'SYS/USD', 'last_buy_time': 1662043380000}
+{'market': 'SYS/USD', 'last_buy_time': 1662043020000} {'market': 'SYS/USD', 'last_buy_time': 1662043380000} {'market': 'SYS/USD', 'last_buy_time': 1662043380000} {'market': 'LOKA/USD', 'last_buy_time': 1662043680000} {'market': 'LOKA/USD', 'last_buy_time': 1662043680000}
