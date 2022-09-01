@@ -1,0 +1,1 @@
+{'market': 'GTC/USD', 'last_buy_time': 1662030360000} {'market': 'GTC/USD', 'last_buy_time': 1662030360000}
