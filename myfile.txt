@@ -1,1 +1,1 @@
-{'market': 'SOL/USDT', 'last_buy_time': 1662654960000} {'market': 'SOL/USDT', 'last_buy_time': 1662654960000} {'market': 'LINK/USDT', 'last_buy_time': 1662655020000} {'market': 'LINK/USDT', 'last_buy_time': 1662655020000}
+{'market': 'SOL/USDT', 'last_buy_time': 1662654960000} {'market': 'SOL/USDT', 'last_buy_time': 1662654960000} {'market': 'LINK/USDT', 'last_buy_time': 1662655020000} {'market': 'LINK/USDT', 'last_buy_time': 1662655020000} {'market': 'NEAR/USD', 'last_buy_time': 1662655020000} {'market': 'NEAR/USD', 'last_buy_time': 1662655020000}
