@@ -1,1 +1,1 @@
-{'market': 'APE/USD', 'last_buy_time': 1662836280000} {'market': 'APE/USD', 'last_buy_time': 1662836280000} {'market': 'KNC/USDT', 'last_buy_time': 1662837120000}
+{'market': 'APE/USD', 'last_buy_time': 1662836280000} {'market': 'KNC/USDT', 'last_buy_time': 1662837120000}
