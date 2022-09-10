@@ -1,1 +1,1 @@
-{'market': 'LPT/BUSD', 'last_buy_time': 1662804120000} {'market': 'LPT/BUSD', 'last_buy_time': 1662804120000} {'market': 'LPT/BUSD', 'last_buy_time': 1662804120000} {'market': 'LPT/BUSD', 'last_buy_time': 1662804120000} {'market': 'LPT/BUSD', 'last_buy_time': 1662804120000}
+{'market': 'LPT/BUSD', 'last_buy_time': 1662804120000} {'market': 'LPT/BUSD', 'last_buy_time': 1662804120000}
