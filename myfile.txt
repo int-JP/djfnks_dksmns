@@ -1,1 +1,1 @@
-{'market': 'COTI/USDT', 'last_buy_time': 1662811740000} {'market': 'COTI/USDT', 'last_buy_time': 1662811740000} {'market': 'COTI/USDT', 'last_buy_time': 1662811740000}
+{'market': 'COTI/USDT', 'last_buy_time': 1662811740000}
