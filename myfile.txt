@@ -1,1 +1,1 @@
-{'market': 'ALPINE/USDT', 'last_buy_time': 1662831960000} {'market': 'ALPINE/USDT', 'last_buy_time': 1662831960000} {'market': 'POLY/BUSD', 'last_buy_time': 1662832680000}
+{'market': 'ALPINE/USDT', 'last_buy_time': 1662831960000} {'market': 'POLY/BUSD', 'last_buy_time': 1662832680000}
