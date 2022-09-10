@@ -1,1 +1,1 @@
-{'market': 'LPT/BUSD', 'last_buy_time': 1662795600000} {'market': 'LPT/BUSD', 'last_buy_time': 1662795600000} {'market': 'FET/USDT', 'last_buy_time': 1662796260000} {'market': 'T/USD', 'last_buy_time': 1662796320000} {'market': 'T/USD', 'last_buy_time': 1662796320000}
+{'market': 'LPT/BUSD', 'last_buy_time': 1662795600000} {'market': 'FET/USDT', 'last_buy_time': 1662796260000} {'market': 'T/USD', 'last_buy_time': 1662796320000} {'market': 'T/USD', 'last_buy_time': 1662796320000}
