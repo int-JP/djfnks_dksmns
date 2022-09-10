@@ -1,1 +1,1 @@
-{'market': 'LINK/USDT', 'last_buy_time': 1662811440000}
+{'market': 'LINK/USDT', 'last_buy_time': 1662811440000} {'market': 'EOS/USDT', 'last_buy_time': 1662811500000} {'market': 'EOS/USDT', 'last_buy_time': 1662811500000} {'market': 'EOS/USDT', 'last_buy_time': 1662811500000} {'market': 'EOS/USDT', 'last_buy_time': 1662811500000} {'market': 'EOS/USDT', 'last_buy_time': 1662811500000} {'market': 'EOS/USDT', 'last_buy_time': 1662811500000}
