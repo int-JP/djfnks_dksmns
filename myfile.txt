@@ -1,1 +1,1 @@
-{'market': 'RNDR/USD', 'last_buy_time': 1662796500000} {'market': 'KNC/USDT', 'last_buy_time': 1662796740000} {'market': 'KNC/USDT', 'last_buy_time': 1662796740000}
+{'market': 'KNC/USDT', 'last_buy_time': 1662796740000} {'market': 'KNC/USDT', 'last_buy_time': 1662796740000}
