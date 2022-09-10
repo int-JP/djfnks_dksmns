@@ -1,1 +1,1 @@
-{'market': 'DOGE/USDT', 'last_buy_time': 1662817200000}
+{'market': 'DOGE/USDT', 'last_buy_time': 1662817200000} {'market': 'COTI/USDT', 'last_buy_time': 1662817740000} {'market': 'COTI/USDT', 'last_buy_time': 1662817740000} {'market': 'COTI/USDT', 'last_buy_time': 1662817740000} {'market': 'COTI/USDT', 'last_buy_time': 1662817740000} {'market': 'COTI/USDT', 'last_buy_time': 1662817740000} {'market': 'COTI/USDT', 'last_buy_time': 1662817740000} {'market': 'COTI/USDT', 'last_buy_time': 1662817740000} {'market': 'COTI/USDT', 'last_buy_time': 1662817740000}
