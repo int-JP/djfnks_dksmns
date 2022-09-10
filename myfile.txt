@@ -1,1 +1,1 @@
-{'market': 'EOS/USDT', 'last_buy_time': 1662811500000} {'market': 'EOS/USDT', 'last_buy_time': 1662811500000} {'market': 'EOS/USDT', 'last_buy_time': 1662811500000} {'market': 'COTI/USDT', 'last_buy_time': 1662811740000} {'market': 'COTI/USDT', 'last_buy_time': 1662811740000} {'market': 'COTI/USDT', 'last_buy_time': 1662811740000}
+{'market': 'EOS/USDT', 'last_buy_time': 1662811500000} {'market': 'COTI/USDT', 'last_buy_time': 1662811740000} {'market': 'COTI/USDT', 'last_buy_time': 1662811740000} {'market': 'COTI/USDT', 'last_buy_time': 1662811740000}
