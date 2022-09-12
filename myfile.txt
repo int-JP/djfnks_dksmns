@@ -1,1 +1,0 @@
-{'market': 'VITE/USD', 'last_buy_time': 1663000560000}
