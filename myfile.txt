@@ -1,1 +1,1 @@
-{'market': 'REQ/USDT', 'last_buy_time': 1663011120000} {'market': 'REQ/USDT', 'last_buy_time': 1663011120000} {'market': 'REQ/USDT', 'last_buy_time': 1663011120000}
+{'market': 'REQ/USDT', 'last_buy_time': 1663011120000} {'market': 'REQ/USDT', 'last_buy_time': 1663011120000} {'market': 'REQ/USDT', 'last_buy_time': 1663011120000} {'market': 'REQ/USD', 'last_buy_time': 1663011120000}
