@@ -1,1 +1,1 @@
-{'market': 'RLC/USD', 'last_buy_time': 1662957360000} {'market': 'RLC/USD', 'last_buy_time': 1662957360000} {'market': 'RLC/USD', 'last_buy_time': 1662957360000} {'market': 'RLC/USD', 'last_buy_time': 1662957360000} {'market': 'RLC/USD', 'last_buy_time': 1662957360000}
+{'market': 'RLC/USD', 'last_buy_time': 1662957360000} {'market': 'RLC/USD', 'last_buy_time': 1662957360000} {'market': 'BAND/USDT', 'last_buy_time': 1662958260000} {'market': 'BAND/USDT', 'last_buy_time': 1662958260000}
