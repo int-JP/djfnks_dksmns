@@ -1,1 +1,1 @@
-{'market': 'VITE/USDT', 'last_buy_time': 1663006500000} {'market': 'VITE/USDT', 'last_buy_time': 1663006500000} {'market': 'VITE/USDT', 'last_buy_time': 1663006500000} {'market': 'VITE/USDT', 'last_buy_time': 1663006500000} {'market': 'VITE/USDT', 'last_buy_time': 1663006500000} {'market': 'VITE/USDT', 'last_buy_time': 1663006500000} {'market': 'VITE/USDT', 'last_buy_time': 1663006500000}
+{'market': 'VITE/USDT', 'last_buy_time': 1663006500000} {'market': 'VITE/USDT', 'last_buy_time': 1663006500000} {'market': 'VITE/USDT', 'last_buy_time': 1663006500000}
