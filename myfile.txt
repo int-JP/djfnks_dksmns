@@ -1,1 +1,1 @@
-{'market': 'VTHO/USDT', 'last_buy_time': 1663066440000} {'market': 'DOT/USDT', 'last_buy_time': 1663066500000} {'market': 'DOT/USDT', 'last_buy_time': 1663066500000}
+{'market': 'VTHO/USDT', 'last_buy_time': 1663066440000} {'market': 'DOT/USDT', 'last_buy_time': 1663066500000} {'market': 'DOT/USDT', 'last_buy_time': 1663066500000} {'market': 'ICP/USDT', 'last_buy_time': 1663066680000} {'market': 'ICP/USDT', 'last_buy_time': 1663066680000}
