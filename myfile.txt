@@ -1,1 +1,1 @@
-{'market': 'VET/USDT', 'last_buy_time': 1663193940000} {'market': 'COMP/USDT', 'last_buy_time': 1663193940000} {'market': 'COMP/USDT', 'last_buy_time': 1663193940000}
+{'market': 'VET/USDT', 'last_buy_time': 1663193940000} {'market': 'COMP/USDT', 'last_buy_time': 1663193940000} {'market': 'COMP/USDT', 'last_buy_time': 1663193940000} {'market': 'STORJ/USDT', 'last_buy_time': 1663193940000}
