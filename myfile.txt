@@ -1,1 +1,1 @@
-{'market': 'CHZ/USD', 'last_buy_time': 1663261560000} {'market': 'CHZ/USD', 'last_buy_time': 1663261560000}
+{'market': 'CHZ/USD', 'last_buy_time': 1663261560000} {'market': 'CHZ/USD', 'last_buy_time': 1663261560000} {'market': 'VOXEL/USDT', 'last_buy_time': 1663261620000}
