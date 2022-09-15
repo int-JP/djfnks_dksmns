@@ -1,1 +1,1 @@
-{'market': 'NEO/USDT', 'last_buy_time': 1663245420000}
+{'market': 'NEO/USDT', 'last_buy_time': 1663245420000} {'market': 'CRV/USDT', 'last_buy_time': 1663245480000} {'market': 'CRV/USDT', 'last_buy_time': 1663245480000}
