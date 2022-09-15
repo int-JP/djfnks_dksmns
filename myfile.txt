@@ -1,1 +1,1 @@
-{'market': 'KNC/USDT', 'last_buy_time': 1663238640000} {'market': 'UNI/USDT', 'last_buy_time': 1663238640000}
+{'market': 'KNC/USDT', 'last_buy_time': 1663238640000} {'market': 'UNI/USDT', 'last_buy_time': 1663238640000} {'market': 'LRC/USD', 'last_buy_time': 1663238700000}
