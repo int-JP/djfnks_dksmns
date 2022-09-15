@@ -1,1 +1,1 @@
-{'market': 'ETC/USDT', 'last_buy_time': 1663240860000} {'market': 'ETC/USDT', 'last_buy_time': 1663240860000} {'market': 'ETC/USDT', 'last_buy_time': 1663240860000} {'market': 'POLY/BTC', 'last_buy_time': 1663240980000}
+{'market': 'ETC/USDT', 'last_buy_time': 1663240860000} {'market': 'ETC/USDT', 'last_buy_time': 1663240860000} {'market': 'ETC/USDT', 'last_buy_time': 1663240860000} {'market': 'POLY/BTC', 'last_buy_time': 1663240980000} {'market': 'LAZIO/USD', 'last_buy_time': 1663241040000} {'market': 'LAZIO/USD', 'last_buy_time': 1663241040000}
