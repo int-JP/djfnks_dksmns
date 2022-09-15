@@ -1,1 +1,1 @@
-{'market': 'NEO/USDT', 'last_buy_time': 1663244460000} {'market': 'EOS/USDT', 'last_buy_time': 1663244520000} {'market': 'LRC/USDT', 'last_buy_time': 1663244520000}
+{'market': 'NEO/USDT', 'last_buy_time': 1663244460000} {'market': 'EOS/USDT', 'last_buy_time': 1663244520000} {'market': 'LRC/USDT', 'last_buy_time': 1663244520000} {'market': 'ENS/USDT', 'last_buy_time': 1663244580000}
