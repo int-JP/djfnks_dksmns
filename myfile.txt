@@ -1,1 +1,1 @@
-{'market': 'ASTR/USD', 'last_buy_time': 1663664520000} {'market': 'FTM/USDT', 'last_buy_time': 1663665240000} {'market': 'FTM/USDT', 'last_buy_time': 1663665240000} {'market': 'FTM/USDT', 'last_buy_time': 1663665240000}
+{'market': 'FTM/USDT', 'last_buy_time': 1663665240000} {'market': 'FTM/USDT', 'last_buy_time': 1663665240000} {'market': 'FTM/USDT', 'last_buy_time': 1663665240000}
