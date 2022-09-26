@@ -1,1 +1,1 @@
-{'market': 'MKR/USDT', 'last_buy_time': 1664232540000} {'market': 'SNX/USD', 'last_buy_time': 1664232600000} {'market': 'SNX/USD', 'last_buy_time': 1664232600000}
+{'market': 'MKR/USDT', 'last_buy_time': 1664232540000} {'market': 'SNX/USD', 'last_buy_time': 1664232600000} {'market': 'SNX/USD', 'last_buy_time': 1664232600000} {'market': 'SKL/USD', 'last_buy_time': 1664232720000} {'market': 'SKL/USD', 'last_buy_time': 1664232720000}
