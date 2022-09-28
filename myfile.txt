@@ -1,1 +1,1 @@
-{'market': 'STORJ/USDT', 'last_buy_time': 1664378940000} {'market': 'OXT/USDT', 'last_buy_time': 1664378940000}
+{'market': 'STORJ/USDT', 'last_buy_time': 1664378940000} {'market': 'OXT/USDT', 'last_buy_time': 1664378940000} {'market': 'CRV/USDT', 'last_buy_time': 1664379000000}
