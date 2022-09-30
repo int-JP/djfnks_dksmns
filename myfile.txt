@@ -1,1 +1,1 @@
-{'market': 'MKR/USDT', 'last_buy_time': 1664545740000} {'market': 'TLM/USD', 'last_buy_time': 1664545920000}
+{'market': 'TLM/USD', 'last_buy_time': 1664545920000}
