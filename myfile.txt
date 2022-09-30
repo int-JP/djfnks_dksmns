@@ -1,1 +1,1 @@
-{'market': 'MKR/USDT', 'last_buy_time': 1664544420000} {'market': 'MKR/USDT', 'last_buy_time': 1664544420000} {'market': 'MKR/USDT', 'last_buy_time': 1664544420000} {'market': 'MKR/USDT', 'last_buy_time': 1664545080000} {'market': 'MKR/USDT', 'last_buy_time': 1664545080000} {'market': 'MKR/USDT', 'last_buy_time': 1664545080000}
+{'market': 'MKR/USDT', 'last_buy_time': 1664544420000} {'market': 'MKR/USDT', 'last_buy_time': 1664545080000} {'market': 'MKR/USDT', 'last_buy_time': 1664545080000} {'market': 'MKR/USDT', 'last_buy_time': 1664545080000}
