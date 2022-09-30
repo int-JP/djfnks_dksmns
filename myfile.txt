@@ -1,1 +1,1 @@
-{'market': 'NMR/USD', 'last_buy_time': 1664572980000} {'market': 'NMR/USD', 'last_buy_time': 1664572980000}
+{'market': 'NMR/USD', 'last_buy_time': 1664572980000}
