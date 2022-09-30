@@ -1,1 +1,1 @@
-{'market': 'RNDR/USD', 'last_buy_time': 1664553000000}
+{'market': 'RNDR/USD', 'last_buy_time': 1664553000000} {'market': 'MATIC/USDT', 'last_buy_time': 1664553300000}
