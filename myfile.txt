@@ -1,1 +1,1 @@
-{'market': 'JASMY/USDT', 'last_buy_time': 1664657760000} {'market': 'JASMY/USDT', 'last_buy_time': 1664657760000}
+{'market': 'JASMY/USDT', 'last_buy_time': 1664657760000}
