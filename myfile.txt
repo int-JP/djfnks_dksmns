@@ -1,1 +1,1 @@
-{'market': 'SLP/USD', 'last_buy_time': 1664644740000} {'market': 'SLP/USD', 'last_buy_time': 1664644740000}
+{'market': 'SLP/USD', 'last_buy_time': 1664644740000}
