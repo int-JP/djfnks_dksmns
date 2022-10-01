@@ -1,1 +1,1 @@
-{'market': 'BOND/USDT', 'last_buy_time': 1664655480000} {'market': 'BOND/USDT', 'last_buy_time': 1664655480000}
+{'market': 'BOND/USDT', 'last_buy_time': 1664655480000} {'market': 'BOND/USDT', 'last_buy_time': 1664655480000} {'market': 'JASMY/USDT', 'last_buy_time': 1664655900000} {'market': 'JASMY/USDT', 'last_buy_time': 1664655900000} {'market': 'JASMY/USDT', 'last_buy_time': 1664655900000} {'market': 'JASMY/USDT', 'last_buy_time': 1664655900000} {'market': 'JASMY/USDT', 'last_buy_time': 1664655900000} {'market': 'JASMY/USDT', 'last_buy_time': 1664655900000}
