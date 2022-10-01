@@ -1,1 +1,1 @@
-{'market': 'KSHIB/USD', 'last_buy_time': 1664585520000} {'market': 'KSHIB/USD', 'last_buy_time': 1664585520000}
+{'market': 'KSHIB/USD', 'last_buy_time': 1664585520000} {'market': 'KSHIB/USD', 'last_buy_time': 1664585520000} {'market': 'REEF/USDT', 'last_buy_time': 1664585700000} {'market': 'REEF/USDT', 'last_buy_time': 1664585700000}
