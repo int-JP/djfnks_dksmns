@@ -1,1 +1,1 @@
-{'market': 'KSHIB/USD', 'last_buy_time': 1664589180000} {'market': 'SHIB/USDT', 'last_buy_time': 1664589480000} {'market': 'SHIB/USDT', 'last_buy_time': 1664589480000}
+{'market': 'SHIB/USDT', 'last_buy_time': 1664589480000} {'market': 'SHIB/USDT', 'last_buy_time': 1664589480000}
