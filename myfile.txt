@@ -1,1 +1,1 @@
-{'market': 'POLY/BTC', 'last_buy_time': 1664583000000}
+{'market': 'POLY/BTC', 'last_buy_time': 1664583000000} {'market': 'SHIB/USDT', 'last_buy_time': 1664583600000} {'market': 'SHIB/USDT', 'last_buy_time': 1664583600000} {'market': 'SHIB/USDT', 'last_buy_time': 1664583600000}
