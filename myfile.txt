@@ -1,1 +1,1 @@
-{'market': 'OGN/USD', 'last_buy_time': 1664627040000} {'market': 'OGN/USD', 'last_buy_time': 1664627040000} {'market': 'OGN/USD', 'last_buy_time': 1664627040000} {'market': 'XLM/USDT', 'last_buy_time': 1664627760000} {'market': 'XLM/USDT', 'last_buy_time': 1664627760000}
+{'market': 'OGN/USD', 'last_buy_time': 1664627040000} {'market': 'XLM/USDT', 'last_buy_time': 1664627760000} {'market': 'XLM/USDT', 'last_buy_time': 1664627760000}
