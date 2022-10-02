@@ -1,1 +1,1 @@
-{'market': 'REN/USD', 'last_buy_time': 1664672640000} {'market': 'REN/USD', 'last_buy_time': 1664672640000} {'market': 'REN/USD', 'last_buy_time': 1664672640000}
+{'market': 'REN/USD', 'last_buy_time': 1664672640000} {'market': 'REN/USD', 'last_buy_time': 1664672640000} {'market': 'REN/USD', 'last_buy_time': 1664672640000} {'market': 'REN/USD', 'last_buy_time': 1664673120000} {'market': 'REN/USD', 'last_buy_time': 1664673120000} {'market': 'REN/USD', 'last_buy_time': 1664673120000} {'market': 'REN/USD', 'last_buy_time': 1664673120000}
