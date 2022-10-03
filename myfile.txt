@@ -1,1 +1,1 @@
-{'market': 'POLY/BUSD', 'last_buy_time': 1664758080000} {'market': 'POLY/BUSD', 'last_buy_time': 1664758080000} {'market': 'POLY/BUSD', 'last_buy_time': 1664758080000} {'market': 'OXT/USDT', 'last_buy_time': 1664758620000}
+{'market': 'POLY/BUSD', 'last_buy_time': 1664758080000} {'market': 'OXT/USDT', 'last_buy_time': 1664758620000}
