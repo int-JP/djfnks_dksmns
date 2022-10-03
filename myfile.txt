@@ -1,1 +1,1 @@
-{'market': 'ETC/USDT', 'last_buy_time': 1664809140000} {'market': 'VTHO/USDT', 'last_buy_time': 1664809140000} {'market': 'COMP/USDT', 'last_buy_time': 1664809140000} {'market': 'MKR/USDT', 'last_buy_time': 1664809140000}
+{'market': 'ETC/USDT', 'last_buy_time': 1664809140000} {'market': 'VTHO/USDT', 'last_buy_time': 1664809140000} {'market': 'COMP/USDT', 'last_buy_time': 1664809140000} {'market': 'MKR/USDT', 'last_buy_time': 1664809140000} {'market': 'OXT/USDT', 'last_buy_time': 1664809200000}
