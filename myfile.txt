@@ -1,1 +1,1 @@
-{'market': 'DAR/USD', 'last_buy_time': 1664760960000} {'market': 'DAR/USD', 'last_buy_time': 1664760960000}
+{'market': 'DAR/USD', 'last_buy_time': 1664760960000}
