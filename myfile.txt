@@ -1,1 +1,1 @@
-{'market': 'PORTO/USDT', 'last_buy_time': 1664944440000} {'market': 'AUDIO/USDT', 'last_buy_time': 1664945040000}
+{'market': 'AUDIO/USDT', 'last_buy_time': 1664945040000}
