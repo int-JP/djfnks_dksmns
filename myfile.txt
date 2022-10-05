@@ -1,1 +1,1 @@
-{'market': 'COTI/USD', 'last_buy_time': 1665007080000} {'market': 'COTI/USD', 'last_buy_time': 1665007080000} {'market': 'FLUX/USDT', 'last_buy_time': 1665007560000}
+{'market': 'COTI/USD', 'last_buy_time': 1665007080000} {'market': 'FLUX/USDT', 'last_buy_time': 1665007560000}
