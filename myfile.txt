@@ -1,1 +1,1 @@
-{'market': 'FLUX/USDT', 'last_buy_time': 1665007560000} {'market': 'ACH/USD', 'last_buy_time': 1665008220000} {'market': 'ACH/USD', 'last_buy_time': 1665008220000}
+{'market': 'FLUX/USDT', 'last_buy_time': 1665007560000} {'market': 'ACH/USD', 'last_buy_time': 1665008220000} {'market': 'ACH/USD', 'last_buy_time': 1665008220000} {'market': 'ATOM/USDT', 'last_buy_time': 1665008340000} {'market': 'ATOM/USDT', 'last_buy_time': 1665008340000} {'market': 'ATOM/USDT', 'last_buy_time': 1665008340000}
