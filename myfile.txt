@@ -1,1 +1,1 @@
-{'market': 'REEF/USD', 'last_buy_time': 1665080160000} {'market': 'REEF/USD', 'last_buy_time': 1665080160000} {'market': 'REEF/USD', 'last_buy_time': 1665080160000}
+{'market': 'REEF/USD', 'last_buy_time': 1665080160000} {'market': 'REEF/USD', 'last_buy_time': 1665080160000} {'market': 'REEF/USD', 'last_buy_time': 1665080160000} {'market': 'REEF/USD', 'last_buy_time': 1665080640000} {'market': 'REEF/USD', 'last_buy_time': 1665080640000}
