@@ -1,1 +1,1 @@
-{'market': 'RLC/USDT', 'last_buy_time': 1665108540000} {'market': 'RLC/USDT', 'last_buy_time': 1665108540000} {'market': 'RLC/USDT', 'last_buy_time': 1665108540000}
+{'market': 'RLC/USDT', 'last_buy_time': 1665108540000}
