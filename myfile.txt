@@ -1,1 +1,1 @@
-{'market': 'CHZ/USDT', 'last_buy_time': 1665149520000} {'market': 'CHZ/USDT', 'last_buy_time': 1665149520000} {'market': 'SANTOS/USDT', 'last_buy_time': 1665150180000}
+{'market': 'CHZ/USDT', 'last_buy_time': 1665149520000} {'market': 'SANTOS/USDT', 'last_buy_time': 1665150180000}
