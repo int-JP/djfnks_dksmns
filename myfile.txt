@@ -1,1 +1,1 @@
-{'market': 'CHZ/USDT', 'last_buy_time': 1665138540000} {'market': 'CHZ/USDT', 'last_buy_time': 1665138540000} {'market': 'CHZ/USDT', 'last_buy_time': 1665138540000} {'market': 'CHZ/USDT', 'last_buy_time': 1665138540000} {'market': 'BOND/USD', 'last_buy_time': 1665138840000} {'market': 'BOND/USD', 'last_buy_time': 1665138840000}
+{'market': 'CHZ/USDT', 'last_buy_time': 1665138540000} {'market': 'CHZ/USDT', 'last_buy_time': 1665138540000} {'market': 'BOND/USD', 'last_buy_time': 1665138840000} {'market': 'BOND/USD', 'last_buy_time': 1665138840000}
