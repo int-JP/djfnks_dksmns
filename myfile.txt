@@ -1,1 +1,1 @@
-{'market': 'KDA/USDT', 'last_buy_time': 1665342840000} {'market': 'KDA/USDT', 'last_buy_time': 1665342840000} {'market': 'KDA/USDT', 'last_buy_time': 1665342840000} {'market': 'KDA/USDT', 'last_buy_time': 1665342840000} {'market': 'TRX/USD', 'last_buy_time': 1665343500000} {'market': 'TRX/USD', 'last_buy_time': 1665343500000}
+{'market': 'KDA/USDT', 'last_buy_time': 1665342840000} {'market': 'KDA/USDT', 'last_buy_time': 1665342840000} {'market': 'TRX/USD', 'last_buy_time': 1665343500000} {'market': 'TRX/USD', 'last_buy_time': 1665343500000}
