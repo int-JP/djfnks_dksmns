@@ -1,1 +1,1 @@
-{'market': 'GALA/USDT', 'last_buy_time': 1665297060000} {'market': 'GALA/USDT', 'last_buy_time': 1665297060000} {'market': 'GALA/USD', 'last_buy_time': 1665297060000} {'market': 'GALA/USD', 'last_buy_time': 1665297060000} {'market': 'LINK/USDT', 'last_buy_time': 1665297540000} {'market': 'LINK/USDT', 'last_buy_time': 1665297540000}
+{'market': 'GALA/USDT', 'last_buy_time': 1665297060000} {'market': 'GALA/USD', 'last_buy_time': 1665297060000} {'market': 'LINK/USDT', 'last_buy_time': 1665297540000} {'market': 'LINK/USDT', 'last_buy_time': 1665297540000}
