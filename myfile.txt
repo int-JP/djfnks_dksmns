@@ -1,1 +1,1 @@
-{'market': 'REEF/USDT', 'last_buy_time': 1665404940000} {'market': 'REEF/USDT', 'last_buy_time': 1665405660000} {'market': 'REEF/USDT', 'last_buy_time': 1665405660000}
+{'market': 'REEF/USDT', 'last_buy_time': 1665405660000} {'market': 'REEF/USDT', 'last_buy_time': 1665405660000}
