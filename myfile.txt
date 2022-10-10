@@ -1,1 +1,1 @@
-{'market': 'FET/USDT', 'last_buy_time': 1665376560000} {'market': 'FET/USDT', 'last_buy_time': 1665376560000} {'market': 'FET/USDT', 'last_buy_time': 1665376560000}
+{'market': 'FET/USDT', 'last_buy_time': 1665376560000} {'market': 'FET/USDT', 'last_buy_time': 1665376560000} {'market': 'FET/USDT', 'last_buy_time': 1665376560000} {'market': 'FET/USDT', 'last_buy_time': 1665377340000} {'market': 'FET/USDT', 'last_buy_time': 1665377340000} {'market': 'FET/USDT', 'last_buy_time': 1665377340000} {'market': 'FET/USDT', 'last_buy_time': 1665377340000}
