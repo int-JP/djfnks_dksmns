@@ -1,1 +1,1 @@
-{'market': 'UNI/USDT', 'last_buy_time': 1665454500000} {'market': 'UNI/USDT', 'last_buy_time': 1665454500000} {'market': 'UNI/USDT', 'last_buy_time': 1665454500000}
+{'market': 'UNI/USDT', 'last_buy_time': 1665454500000}
