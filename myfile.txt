@@ -1,1 +1,1 @@
-{'market': 'LDO/USDT', 'last_buy_time': 1665496620000} {'market': 'LDO/USDT', 'last_buy_time': 1665496620000} {'market': 'LDO/USDT', 'last_buy_time': 1665496620000} {'market': 'LDO/USDT', 'last_buy_time': 1665496620000}
+{'market': 'LDO/USDT', 'last_buy_time': 1665496620000} {'market': 'LDO/USDT', 'last_buy_time': 1665496620000}
