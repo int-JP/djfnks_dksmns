@@ -1,1 +1,1 @@
-{'market': 'THETA/USD', 'last_buy_time': 1665488760000} {'market': 'THETA/USD', 'last_buy_time': 1665489120000} {'market': 'THETA/USD', 'last_buy_time': 1665489120000}
+{'market': 'THETA/USD', 'last_buy_time': 1665489120000} {'market': 'THETA/USD', 'last_buy_time': 1665489120000}
