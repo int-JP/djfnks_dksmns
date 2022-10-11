@@ -1,1 +1,1 @@
-{'market': 'WBTC/BTC', 'last_buy_time': 1665506280000} {'market': 'WBTC/BTC', 'last_buy_time': 1665506280000} {'market': 'RAD/USDT', 'last_buy_time': 1665506580000} {'market': 'RAD/USDT', 'last_buy_time': 1665506580000} {'market': 'QTUM/USDT', 'last_buy_time': 1665506700000}
+{'market': 'WBTC/BTC', 'last_buy_time': 1665506280000} {'market': 'RAD/USDT', 'last_buy_time': 1665506580000} {'market': 'RAD/USDT', 'last_buy_time': 1665506580000} {'market': 'QTUM/USDT', 'last_buy_time': 1665506700000}
