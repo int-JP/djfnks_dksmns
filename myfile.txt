@@ -1,1 +1,1 @@
-{'market': 'SUSHI/USDT', 'last_buy_time': 1665512640000} {'market': 'REEF/USD', 'last_buy_time': 1665512820000} {'market': 'REEF/USD', 'last_buy_time': 1665512820000} {'market': 'VET/USDT', 'last_buy_time': 1665512880000}
+{'market': 'SUSHI/USDT', 'last_buy_time': 1665512640000} {'market': 'REEF/USD', 'last_buy_time': 1665512820000} {'market': 'REEF/USD', 'last_buy_time': 1665512820000} {'market': 'VET/USDT', 'last_buy_time': 1665512880000} {'market': 'SUSHI/USDT', 'last_buy_time': 1665512940000} {'market': 'SUSHI/USDT', 'last_buy_time': 1665512940000}
