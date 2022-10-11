@@ -1,1 +1,1 @@
-{'market': 'APE/USD', 'last_buy_time': 1665487680000} {'market': 'APE/USD', 'last_buy_time': 1665487680000} {'market': 'APE/USD', 'last_buy_time': 1665487680000} {'market': 'APE/USD', 'last_buy_time': 1665487680000}
+{'market': 'APE/USD', 'last_buy_time': 1665487680000} {'market': 'APE/USD', 'last_buy_time': 1665487680000}
