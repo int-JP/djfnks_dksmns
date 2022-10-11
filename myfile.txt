@@ -1,1 +1,1 @@
-{'market': 'T/USD', 'last_buy_time': 1665520380000} {'market': 'T/USD', 'last_buy_time': 1665520740000} {'market': 'T/USD', 'last_buy_time': 1665520740000}
+{'market': 'T/USD', 'last_buy_time': 1665520380000} {'market': 'T/USD', 'last_buy_time': 1665520740000} {'market': 'T/USD', 'last_buy_time': 1665520740000} {'market': 'CHZ/USDT', 'last_buy_time': 1665520920000} {'market': 'CHZ/USDT', 'last_buy_time': 1665520920000}
