@@ -1,1 +1,1 @@
-{'market': 'OXT/USDT', 'last_buy_time': 1665776460000} {'market': 'OXT/USDT', 'last_buy_time': 1665776460000} {'market': 'OXT/USDT', 'last_buy_time': 1665776460000}
+{'market': 'OXT/USDT', 'last_buy_time': 1665776460000}
