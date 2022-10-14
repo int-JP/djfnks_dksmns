@@ -1,1 +1,1 @@
-{'market': 'TRX/USD', 'last_buy_time': 1665748320000}
+{'market': 'TRX/USD', 'last_buy_time': 1665748320000} {'market': 'REEF/USD', 'last_buy_time': 1665748440000} {'market': 'REEF/USD', 'last_buy_time': 1665748440000}
