@@ -1,1 +1,1 @@
-{'market': 'CELO/USD', 'last_buy_time': 1665740520000} {'market': 'CELO/USD', 'last_buy_time': 1665740520000} {'market': 'ACH/USDT', 'last_buy_time': 1665740820000} {'market': 'TRX/USD', 'last_buy_time': 1665741360000} {'market': 'TRX/USD', 'last_buy_time': 1665741360000}
+{'market': 'CELO/USD', 'last_buy_time': 1665740520000} {'market': 'ACH/USDT', 'last_buy_time': 1665740820000} {'market': 'TRX/USD', 'last_buy_time': 1665741360000} {'market': 'TRX/USD', 'last_buy_time': 1665741360000}
