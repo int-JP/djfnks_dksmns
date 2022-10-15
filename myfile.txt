@@ -1,1 +1,1 @@
-{'market': 'FLUX/USD', 'last_buy_time': 1665802260000} {'market': 'REN/USD', 'last_buy_time': 1665802860000} {'market': 'REN/USD', 'last_buy_time': 1665802860000}
+{'market': 'REN/USD', 'last_buy_time': 1665802860000} {'market': 'REN/USD', 'last_buy_time': 1665802860000}
