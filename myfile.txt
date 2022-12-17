@@ -1,1 +1,1 @@
-{'market': 'NMR/USDT', 'last_buy_time': 1671305640000} {'market': 'NMR/USD', 'last_buy_time': 1671305640000} {'market': 'NMR/USD', 'last_buy_time': 1671305640000} {'market': 'NMR/USD', 'last_buy_time': 1671306060000} {'market': 'NMR/USD', 'last_buy_time': 1671306060000} {'market': 'NMR/USD', 'last_buy_time': 1671306060000}
+{'market': 'NMR/USD', 'last_buy_time': 1671305640000} {'market': 'NMR/USD', 'last_buy_time': 1671306060000} {'market': 'NMR/USD', 'last_buy_time': 1671306060000} {'market': 'NMR/USD', 'last_buy_time': 1671306060000}
