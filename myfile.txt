@@ -1,0 +1,1 @@
+{'market': 'ICP/USD', 'last_buy_time': 1671307320000}
