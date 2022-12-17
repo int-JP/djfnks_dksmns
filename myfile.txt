@@ -1,1 +1,1 @@
-{'market': 'TFUEL/USD', 'last_buy_time': 1671291240000} {'market': 'BOND/USD', 'last_buy_time': 1671291360000} {'market': 'FORTH/USD', 'last_buy_time': 1671291480000}
+{'market': 'TFUEL/USD', 'last_buy_time': 1671291240000} {'market': 'BOND/USD', 'last_buy_time': 1671291360000} {'market': 'FORTH/USD', 'last_buy_time': 1671291480000} {'market': 'BOSON/USD', 'last_buy_time': 1671291540000}
