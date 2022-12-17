@@ -1,1 +1,1 @@
-{'market': 'JAM/USDT', 'last_buy_time': 1671264240000} {'market': 'JAM/USDT', 'last_buy_time': 1671264240000} {'market': 'JAM/USDT', 'last_buy_time': 1671264240000} {'market': 'JAM/USD', 'last_buy_time': 1671264240000} {'market': 'JAM/USD', 'last_buy_time': 1671264240000}
+{'market': 'JAM/USDT', 'last_buy_time': 1671264240000} {'market': 'JAM/USD', 'last_buy_time': 1671264240000}
