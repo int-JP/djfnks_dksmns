@@ -1,1 +1,1 @@
-{'market': 'ZEC/USDT', 'last_buy_time': 1671379980000} {'market': 'ZEC/USDT', 'last_buy_time': 1671379980000}
+{'market': 'ZEC/USDT', 'last_buy_time': 1671379980000} {'market': 'ZEC/USDT', 'last_buy_time': 1671379980000} {'market': 'VTHO/USDT', 'last_buy_time': 1671380280000} {'market': 'VTHO/USDT', 'last_buy_time': 1671380280000} {'market': 'VTHO/USDT', 'last_buy_time': 1671380280000} {'market': 'VTHO/USDT', 'last_buy_time': 1671380280000} {'market': 'VTHO/USDT', 'last_buy_time': 1671380280000} {'market': 'VTHO/USDT', 'last_buy_time': 1671380280000}
